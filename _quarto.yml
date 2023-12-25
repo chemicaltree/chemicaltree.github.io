@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "chemicaltree.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    link-external-newwindow: true
+    theme: cosmo
+    toc: true
+
+
+
