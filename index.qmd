@@ -8,8 +8,8 @@ about:
     - icon: envelope
       text: e-mail
       href: mailto:masato_mita@cyberagent.co.jp
-    - icon: twitter
-      text: twitter
+    - icon: twitter-x
+      text: X (twitter)
       href: https://twitter.com/chemical_tree
 ---
 
