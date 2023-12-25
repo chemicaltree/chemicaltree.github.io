@@ -1,9 +1,63 @@
 ---
 title: "Masato Mita"
-image: figures/prfofile_18.jpg
 about:
+  id: heading
   template: solana
+  image: figures/profile.jpg
   links:
+    - icon: envelope
+      text: e-mail
+      href: mailto:masato_mita@cyberagent.co.jp
     - icon: twitter
+      text: twitter
       href: https://twitter.com/chemical_tree
 ---
+
+:::{#heading}
+
+Ph.D in Information Science (2021, Tohoku University)
+
+Research Scientist at CyberAgent, Inc (AI Lab).
+Project Assistant Professor at Natural Language Processing Laboratory, Tokyo Metropolitan University
+Visiting Scientist at Natural Language Understanding Team, RIKEN AIP.
+
+:::
+
+:::{.callout-note}
+
+## お知らせ
+- 情報処理学会NL研究会で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
+
+:::
+
+## Research Interests
+
+- Natural Language Processing, Computational Linguistics
+- NLP for Education & Advertisement, Resource & Evaluation, 
+
+## Publications
+
+::: {.panel-tabset}
+
+## Articles (Referred)
+
+1. Aomi Koyama, Tomoshige Kiyuna, Kenji Kobayashi, Mio Arai, Masato Mita, Teruaki Oka and Mamoru Komachi. ["Construction of an Error-Tagged Evaluation Corpus for Japanese Grammatical Error Correction."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_330/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.30, No.2. (2023.6).
+
+2. Hongfei Wang, Michiki Kurosawa, Satoru Katsumata,  Masato Mita, Mamoru Komachi. ["Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data."](https://dl.acm.org/doi/10.1145/3570209) Transactions on Asian and Low-Resource Language Information Processing (TALIP).
+3. Ikumi Yamashita, Masahiro Kaneko, Masato Mita, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. ["Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning."](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.29, No.2. (2022.6). 
+4. Ryo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. ["Phenomenon-wise Evaluation Dataset Towards Analyzing Robustness of Machine Translation Models."](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_450/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.28, No.2. (2021.6). 
+5. Masato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Sectional Evaluation of Grammatical Error Correction Models."](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.28, No.1. (2021.3).
+
+
+## Articles (Non-refereed)
+
+1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://arxiv.org/abs/2205.11484) arXiv:2205.11484.
+
+2. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita. ["A Report on FCG GenChal 2022: Shared Task on Feedback Comment Generation for Language Learners."](https://sigdialinlg2023.github.io/static/papers/genchal/130.pdf) Proceedings of the INLG 2023.
+
+3. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
+
+:::
+
+See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
+
