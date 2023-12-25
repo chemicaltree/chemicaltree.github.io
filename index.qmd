@@ -3,7 +3,7 @@ title: "Masato Mita"
 about:
   id: heading
   template: solana
-  image: figures/profile.jpg
+  image: figures/profile_v2.jpg
   links:
     - icon: envelope
       text: e-mail
@@ -14,12 +14,11 @@ about:
 ---
 
 :::{#heading}
+Research Scientist @ [CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
-Ph.D in Information Science (2021, Tohoku University)
+Project Assistant Professor @ [Tokyo Metropolitan University](https://tmu.komachi.live/)
 
-Research Scientist at CyberAgent, Inc (AI Lab).
-Project Assistant Professor at Natural Language Processing Laboratory, Tokyo Metropolitan University
-Visiting Scientist at Natural Language Understanding Team, RIKEN AIP.
+Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
 
 :::
 
