@@ -4,6 +4,6 @@ image: figures/prfofile_18.jpg
 about:
   template: solana
   links:
-    - icon: twitter-x
+    - icon: twitter
       href: https://twitter.com/chemical_tree
 ---
