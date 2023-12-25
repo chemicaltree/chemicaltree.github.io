@@ -25,14 +25,15 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## お知らせ
-- 情報処理学会NL研究会で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
+- 第258回 自然言語処理研究会（NL研）で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
+- 第18回 NLP若手の会（YANS）で研究発表「日本語LLMベンチマーク構築に向けて」が[奨励賞](https://yans.anlp.jp/entry/award)を受賞しました。
 
 :::
 
 ## Research Interests
 
 - Natural Language Processing, Computational Linguistics
-- NLP for Education & Advertisement, Resource & Evaluation, 
+- NLP for Education & Advertisement, Resource & Evaluation
 
 ## Publications
 
