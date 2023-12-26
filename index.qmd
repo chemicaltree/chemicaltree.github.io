@@ -89,7 +89,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 ## Non-refereed
 
 
-1. 小林 正宗, 三田 雅人, 小町 守. "文法誤り訂正におけるメタ評価の再考." 第258回自然言語処理研究会 (2023.12) <span class="custom-color">🏆 優秀研究賞</span>
+1. 小林 正宗, 三田 雅人, 小町 守. "文法誤り訂正におけるメタ評価の再考." 第258回自然言語処理研究会 <span class="custom-color">🏆 優秀研究賞</span>
 
 1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
 
