@@ -14,7 +14,7 @@ about:
 ---
 
 :::{#heading}
-Research Scientist @ [CyberAgent AI Lab](https://cyberagent.ai/ailab/)
+Lead Research Scientist @ [NLP Team, CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
 Project Assistant Professor @ [Tokyo Metropolitan University](https://www.tmu.ac.jp/)
 
