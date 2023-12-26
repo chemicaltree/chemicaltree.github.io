@@ -16,7 +16,7 @@ about:
 :::{#heading}
 Research Scientist @ [CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
-Project Assistant Professor @ [Tokyo Metropolitan University](https://tmu.komachi.live/)
+Project Assistant Professor @ [Tokyo Metropolitan University](https://www.tmu.ac.jp/)
 
 Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
 
@@ -182,15 +182,15 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Work Experience
-- 2022.6 - Current CyberAgent, Inc.  Research Scientist 
-- 2021.10 - Current Tokyo Metropolitan University, Project Assistant Professor (PI: Dr. Mamoru Komachi)
-- 2019.10 - 2020.12  Megagon Labs Japan  (formerly Recruit Institute of Technology), Contract Researcher
-- 2018.2 - 2022.5  RIKEN Center for Advanced Intelligence Project (AIP), Researcher 
-- 2016.4 - 2018.1  Microsoft Japan, Engineer
-- 2015.10 - 2015.12  Rakuten Institute of Technology - New York (RIT-NY), Research Intern (Mentor: Dr. Koji Murakami)
-- 2014.8 - 2014.8  NTT Communication Science Laboratories, Research Intern (Mentor: Dr. Katsuhito Sudoh)
+- 2022.6 - Current [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
+- 2021.10 - Current [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
+- 2019.10 - 2020.12  [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
+- 2018.2 - 2022.5  [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
+- 2016.4 - 2018.1  [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
+- 2015.10 - 2015.12  [Rakuten Institute of Technology - New York (RIT-NY)](https://rit.rakuten.com/), Part-time Researcher
+- 2014.8 - 2014.8  [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
 
 ## Education
-- 2018.10  - 2021.9  Ph.D. in Information Science, Tohoku University (Supervisor: Prof. Kentaro Inui)
-- 2014.4 - 2016.3  M.S. in Engineering, Nara Institute of Science and Technology (Supervisor: Prof. Yuji Matsumoto)
-- 2010.4 - 2014.3  B.A. , Prefectural University of Hiroshima
+- 2018.10  - 2021.9  Ph.D. in Information Science, [Tohoku University](https://www.tohoku.ac.jp/japanese/) (Supervisor: Prof. Kentaro Inui)
+- 2014.4 - 2016.3  M.S. in Engineering, [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/) (Supervisor: Prof. Yuji Matsumoto)
+- 2010.4 - 2014.3  B.A. , [Prefectural University of Hiroshima](https://www.pu-hiroshima.ac.jp/)
