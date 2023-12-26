@@ -80,7 +80,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Shun Kiyono, Jun Suzuki, Masato Mita, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of EMNLP-IJCNLP 2019. <span class="conf-tag">EMNLP</span>
 
-1. Hiroki Asano,  Masato Mita, Tomoya Mizumoto, Jun Suzuki. ["The AIP-Tohoku System at the BEA-2019 Shared Task."](https://aclanthology.org/W19-4418/) ACL Workshop BEA, 2019. <span class="conf-tag">BEA</span>
+1. Hiroki Asano,  Masato Mita, Tomoya Mizumoto, Jun Suzuki. ["The AIP-Tohoku System at the BEA-2019 Shared Task."](https://aclanthology.org/W19-4418/) ACL Workshop BEA, 2019. <span class="custom-color">🏆 2nd place at the unrestricted track</span> <span class="conf-tag">BEA</span> 
 
 1. Masato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui.  ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL-HLT 2019. <span class="conf-tag">NAACL</span>
 
