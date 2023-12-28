@@ -89,7 +89,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Non-refereed
 
-1. 上田直生也, 三田雅人, 小町守. "Minimul-pair Paradigmデータセット
 
 1. 小林 正宗, 三田 雅人, 小町 守. "文法誤り訂正におけるメタ評価の再考." 第258回自然言語処理研究会 <span class="custom-color">🏆 優秀研究賞</span>
 
