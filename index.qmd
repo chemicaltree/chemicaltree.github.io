@@ -92,6 +92,11 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Non-refereed
 
+1. 小林 正宗, 三田雅人, 小町守. "文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性." 言語処理学会第30回年次大会.
+
+1. 上田直生也, 三田雅人, 小町守. "Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善." 言語処理学会第30回年次大会. 
+
+1. Zizheng Zhang, Masato Mita, Mamoru Komachi. "A Task of Cloze Explanation Generation for ESL Learning." 言語処理学会第30回年次大会.
 
 1. 小林 正宗, 三田 雅人, 小町 守. "文法誤り訂正におけるメタ評価の再考." 第258回自然言語処理研究会 <span class="custom-color">🏆 優秀研究賞</span>
 
