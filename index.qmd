@@ -219,11 +219,53 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. 奨励賞 (ハッカソン オープン部門), NLP若手の会 第9回シンポジウム (2014年9月)
 
+## Talk/Article
+
+
+1. ["NLP2023 テーマセッション「ことばの評価と品質推定」."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_844/_article/-char/ja) 自然言語処理 30巻2号. (2023.6) 
+
+
+1. ["日本経済新聞「やっぱり変だよ、日本の教育4」"](https://www.nikkei.com/article/DGKKZO65710890U2A101C2PE8000/?gift=g2ls5jZG38qjIxNzU5NjM5NjmkbDVpNqBkAQ.HlLw-mZt&fbclid=IwAR3cqVBh96HL29g8kHAj_mmhyePAdBKk9cRaCGDlwPzgmPEsYMZnfSFBDVc)（2022年11月4日）
+
+
+1. ["企業にいながらアカデミアのように働く."](https://cyberagent.ai/blog/research/17023/) CyberAgent Blog.（2022.7）
+
+
+1. ["ライティング支援のための文法誤り訂正."](https://speakerdeck.com/chemical_tree/raiteinguzhi-yuan-falsetamefalsewen-fa-wu-riding-zheng) 株式会社NTTドコモ 招待講演.（2022.2）
+
+
+1. ["Do Grammatical Error Correction Models Realize Grammatical Generalization?."](https://www.jstage.jst.go.jp/article/jnlp/28/4/28_1331/_article/-char/ja) 自然言語処理 28巻4号. (2021.12) 
+
+
+1. 文法誤り訂正モデルの文法性評価と論述リライトタスクの提案. 第19回 NLP東京Dの会. （2021.3）
+
+
+1. ["ライティング学習支援のための文法誤り訂正技術の現状と今後の展望."]((https://aip.riken.jp/uploads/1-3_aip-edusympo_mita.pdf)) 教育アセスメント×言語処理シンポジウム : 自動採点、英文添削、論述評価の可能性.（2020.12）
+
+
+1. 文法誤り訂正の評価に対する問題提起. 第17回 NLP東京Dの会.（2019.6.）
+
+
+## Book/Contents
+
+1. ["大規模言語モデルとは何か."](https://www.tkd-pbl.com/book/b10033618.html) 現代化学2023年9月号. 
+
+1. ["深層学習による自然言語処理の理論と実践."](https://coloso.jp/products/researchscientist-mita-jp) Coloso. 
+
 
 
 :::
 
 See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
+
+## Academic Activities
+
+1. 情報処理学会 自然言語処理研究会（NL研）, 運営委員
+1. GenChal 2022: Feedback Comment Generation, オーガナイザ
+
+## Reviewer
+ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP ...etc.
+
 
 
 
