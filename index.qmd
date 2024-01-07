@@ -264,7 +264,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. GenChal 2022: Feedback Comment Generation, オーガナイザ
 
 ## Reviewer
-ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP ...etc.
+ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
 
 
 
