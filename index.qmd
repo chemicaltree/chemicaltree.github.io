@@ -99,7 +99,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Tomoya Mizumoto, Masato Mita, Yuji Matsumoto. ["Grammatical Error Correction Considering Multi-word Expressions."](https://aclanthology.org/W15-4412/) ACL-IJCNLP Workshop TEA. <span class="conf-tag">TEA</span>
 
-## Meeting/Sympothium 
+## Meeting/Symposium
 
 
 1. 小林 正宗, 三田雅人, 小町守. "文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性." 言語処理学会第30回年次大会.
