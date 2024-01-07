@@ -103,10 +103,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. 小林 正宗, 三田 雅人, 小町 守. "文法誤り訂正におけるメタ評価の再考." 第258回自然言語処理研究会 <span class="custom-color">🏆 優秀研究賞</span>
 
-1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
-
-1. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita. ["A Report on FCG GenChal 2022: Shared Task on Feedback Comment Generation for Language Learners."](https://sigdialinlg2023.github.io/static/papers/genchal/130.pdf) Proceedings of the INLG 2023.
-
 
 1. 栗原 健太郎, 佐々木 翔大, 張 培楠, 石上 亮介, 三田 雅人, 加藤 明彦. "日本語LLMベンチマーク構築に向けて." NLP若手の会第18回シンポジウム. <span class="custom-color">🏆 奨励賞</span>
 
@@ -124,8 +120,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 1. 小山 碧海, 喜友名 朝視顕, 三田 雅人, 岡 照晃, 小町 守. "日本語文法誤り訂正評価コーパスへの誤用タグ付け." 第253回自然言語処理研究会.
 
 1. 五藤 巧, 永田 亮, 三田 雅人. "文法誤り訂正における訂正難易度の判別可能性." 第252回自然言語処理研究会. <span class="custom-color">🏆 若手奨励賞（筆頭著者のみ受賞）</span>
-
-1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://arxiv.org/abs/2205.11484) arXiv:2205.11484.
 
 
 1. 松本 悠太, 林崎 由, 北山 晃太郎, 舟山 弘晃, 三田 雅人, 乾健太郎. ["日本語学習者支援のための敬語変換タスクの提案."](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3Yin239/_article/-char/ja/) 第36回人工知能学会全国大会.
