@@ -9,7 +9,7 @@ about:
       text: e-mail
       href: mailto:masato_mita@cyberagent.co.jp
     - icon: twitter
-      text: twitter (X)
+      text: twitter
       href: https://twitter.com/chemical_tree
 ---
 
@@ -258,8 +258,8 @@ ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
 
 
 ## Work Experience
-- 2022.6 - Current [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
-- 2021.10 - Current [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
+- 2022.6 - Present [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
+- 2021.10 - Present [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
 - 2019.10 - 2020.12  [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
 - 2018.2 - 2022.5  [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
 - 2016.4 - 2018.1  [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
