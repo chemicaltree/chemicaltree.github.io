@@ -30,13 +30,13 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 :::
 
-## Research Interests
+## Research Interest
 
 - Natural Language Processing (NLP) / Computational Linguistics (CL)
 - NLP for Education and Advertising
 - Resource and Evaluation
 
-## Publications
+## Publication
 
 ::: {.panel-tabset}
 
@@ -233,7 +233,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 1. 文法誤り訂正の評価に対する問題提起. 第17回 NLP東京Dの会.（2019.6.）
 
 
-## Book/Contents
+## Book/Course
 
 1. ["大規模言語モデルとは何か."](https://www.tkd-pbl.com/book/b10033618.html) 現代化学2023年9月号. 
 
@@ -250,8 +250,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. [情報処理学会 自然言語処理研究会（NL研）](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0), 運営委員
 1. [GenChal 2022: Feedback Comment Generation](https://nagata-github.github.io/fcg_genchal/), Oraganizer
 
-## Reviewer
-ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
+1. Reviewer: ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
 
 
 
