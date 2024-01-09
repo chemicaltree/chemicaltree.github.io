@@ -252,6 +252,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. Reviewer: ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
 
+## Research Grants
+1. 科研費 基盤B「深層学習による言語生成の評価データセットの構築と品質推定」, 共同研究者（代表者: 小町守）
+
+
 
 
 
