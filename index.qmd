@@ -248,8 +248,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 ## Academic Activity
 
 1. [情報処理学会 自然言語処理研究会（NL研）](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0), 運営委員
-1. [GenChal 2022: Feedback Comment Generation](https://nagata-github.github.io/fcg_genchal/), Oraganizer
-
+1. [SIG EDU](https://sig-edu.org/bea/2024), Program Committee
 1. Reviewer: ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
 
 ## Research Grant
