@@ -101,8 +101,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Meeting/Symposium
 
-1. 本多右京, 岡達志, 張培楠, 三田雅人. "混合モデルと最大リグレット最小化による後処理でのショートカット抑制." 言語処理学会第30回年次大会 (NLP2024).
-
 1. 栗原健太郎, 三田雅人, 張培楠, 佐々木翔太, 石上亮介, 岡崎直観. "LCTG Bench: 日本語 LLM の制御性ベンチマークの構築." 言語処理学会第30回年次大会 (NLP2024).
 
 1. 上田直生也, 三田雅人, 小町守. "Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善." 言語処理学会第30回年次大会 (NLP2024).
