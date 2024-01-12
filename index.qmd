@@ -222,6 +222,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. ["NLP2023 テーマセッション「ことばの評価と品質推定」."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_844/_article/-char/ja) 自然言語処理 30巻2号. (2023.6) 
 
+1. ["NLP2023参加報告."](https://moneyforward.connpass.com/event/276611/) NLP2023 参加報告会 presented by Money Forward Lab
 
 1. ["日本経済新聞「やっぱり変だよ、日本の教育4」"](https://www.nikkei.com/article/DGKKZO65710890U2A101C2PE8000/?gift=g2ls5jZG38qjIxNzU5NjM5NjmkbDVpNqBkAQ.HlLw-mZt&fbclid=IwAR3cqVBh96HL29g8kHAj_mmhyePAdBKk9cRaCGDlwPzgmPEsYMZnfSFBDVc)（2022年11月4日）
 
