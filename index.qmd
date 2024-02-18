@@ -262,7 +262,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. 言語処理学会, YANSシンポジウム運営委員
 1. ACL Rolling Review (ARR), Action Editor
 1. [SIG EDU](https://sig-edu.org/bea/2024), Program Committee
-1. Reviewer: ACL, NAACL, EMNLP, ARR, LREC, COLING, CL, JNLP, BEA ...etc.
+1. Reviewer: CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
 ## Research Grant
