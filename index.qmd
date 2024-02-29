@@ -42,6 +42,9 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 
 ## Journal
+
+1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. "Revisiting Meta-evaluation for Grammatical Error Correction." Transactions of the Association for Computational Linguistics. <span class="conf-tag">TACL</span>
+
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. "Cloze Quality Estimation for Language Assessment." Journal of Natural Language Processing (in Japanese) Vol.31, No.2. <span class="conf-tag">JNLP</span>
 
 
