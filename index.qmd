@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## お知らせ
+- Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted in TACL.
 - 第258回 自然言語処理研究会（NL研）で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
 - 第18回 NLP若手の会（YANS）で研究発表「日本語LLMベンチマーク構築に向けて」が[奨励賞](https://yans.anlp.jp/entry/award)を受賞しました。
 
@@ -43,7 +44,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Journal
 
-1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. "Revisiting Meta-evaluation for Grammatical Error Correction." Transactions of the Association for Computational Linguistics. <span class="conf-tag">TACL</span>
+1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://arxiv.org/abs/2403.02674) Transactions of the Association for Computational Linguistics. <span class="conf-tag">TACL</span>
 
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. "Cloze Quality Estimation for Language Assessment." Journal of Natural Language Processing (in Japanese) Vol.31, No.2. <span class="conf-tag">JNLP</span>
 
