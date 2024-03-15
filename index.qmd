@@ -204,6 +204,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 
 ## Awards 
+1. 優秀賞, 言語処理学会第30回年次大会 (2024年3月)
+
 1. 優秀研究賞, 情報処理学会第258回自然言語処理研究会 (2023年12月)
 
 1. 奨励賞, NLP若手の会 第18回シンポジウム (2023年8月)
