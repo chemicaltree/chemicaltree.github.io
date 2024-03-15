@@ -24,7 +24,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 :::{.callout-note}
 
-## お知らせ
+## News
+- 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
 - Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted in TACL.
 - 第258回 自然言語処理研究会（NL研）で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
 - 第18回 NLP若手の会（YANS）で研究発表「日本語LLMベンチマーク構築に向けて」が[奨励賞](https://yans.anlp.jp/entry/award)を受賞しました。
@@ -111,7 +112,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. 上田直生也, 三田雅人, 小町守. "Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善." 言語処理学会第30回年次大会 (NLP2024).
 
-1. 小林 正宗, 三田雅人, 小町守. "文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性." 言語処理学会第30回年次大会 (NLP2024).
+1. 小林 正宗, 三田雅人, 小町守. "文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性." 言語処理学会第30回年次大会 (NLP2024). <span class="custom-color">🏆 優秀賞</span>
 
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. "A Task of Cloze Explanation Generation for ESL Learning." 言語処理学会第30回年次大会 (NLP2024).
 
