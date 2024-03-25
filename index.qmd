@@ -258,6 +258,30 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. ["深層学習による自然言語処理の理論と実践."](https://coloso.jp/products/researchscientist-mita-jp) Coloso. 
 
+## Resource
+- [TETRA](https://github.com/chemicaltree/tetra)
+- [CAMERA](https://github.com/CyberAgentAILab/camera)
+- [SEEDA](https://github.com/tmu-nlp/SEEDA)
+- [CAMERA3](https://github.com/CyberAgentAILab/camera3)
+- [JaLeCoN](https://github.com/naist-nlp/jalecon)
+- [Cloze-Quality-Estimation](https://github.com/zz-zhang/cloze-quality-estimation)
+- [ClozEx](https://github.com/zz-zhang/ClozEx)
+- [ProQE](https://github.com/tmu-nlp/ProQE)
+- [FLUTEC](https://github.com/kiyama-hajime/FLUTEC)
+- [PheMT](https://github.com/cl-tohoku/PheMT)
+- [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus)
+- [語変換タスクにおける評価用データセット](https://github.com/cl-tohoku/keigo_transfer_task)
+
+
+## Tools
+- [GoToScorer](https://github.com/gotutiyan/GTS)
+- [BERT-GEC](https://github.com/kanekomasahiro/bert-gec)
+- [RIKEN-Tohoku GEC](https://github.com/butsugiri/gec-pseudodata)
+- [GEC_CrossCorpusEvaluation](https://github.com/tomo-wb/GEC_CCE)
+
+
+
+
 
 
 :::
