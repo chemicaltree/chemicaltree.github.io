@@ -270,7 +270,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 - [FLUTEC](https://github.com/kiyama-hajime/FLUTEC)
 - [PheMT](https://github.com/cl-tohoku/PheMT)
 - [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus)
-- [語変換タスクにおける評価用データセット](https://github.com/cl-tohoku/keigo_transfer_task)
+- [敬語変換タスクにおける評価用データセット](https://github.com/cl-tohoku/keigo_transfer_task)
 
 
 ## Tools
