@@ -269,12 +269,12 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 - [JaLeCoN (BEA 2023)](https://github.com/naist-nlp/jalecon) 
     - Dataset of Japanese lexical complexity for non-native readers
 - [ClozEx (EMNLP 2023, Findings)](https://github.com/zz-zhang/ClozEx)
+    - Dataset for a task of generation of English cloze explanation
 - [CELA (EACL 2023, Findings)](https://github.com/zz-zhang/cloze-quality-estimation)
     - Datast for cloze quality estimation
 
 - [TETRA (NLP 2022)](https://github.com/chemicaltree/tetra) 
     - Document revision corpus
-    - Dataset for a task of generation of English cloze explanation
 - [ProQE (LREC 2022)](https://github.com/tmu-nlp/ProQE)
     - Proficiency-wise quality estimation dataset
 - [敬語変換タスクにおける評価用データセット (JSAI 2022)](https://github.com/cl-tohoku/keigo_transfer_task)
