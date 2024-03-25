@@ -259,34 +259,33 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 1. ["深層学習による自然言語処理の理論と実践."](https://coloso.jp/products/researchscientist-mita-jp) Coloso. 
 
 ## Resource
-- [TETRA](https://github.com/chemicaltree/tetra) 
-    - Document revision corpus
-- [CAMERA](https://github.com/CyberAgentAILab/camera)
-    - Multimodal dataset for ad text generation in Japanese
-- [SEEDA (TACL 2024)](https://github.com/tmu-nlp/SEEDA) 
-    - Sentence-based and edit-based human evaluation dataset for GEC
+
 - [CAMERA3 (LREC-COLING 2024)](https://github.com/CyberAgentAILab/camera3) 
     - Evaluation dataset for controllable ad text generation in Japanese
-
+- [SEEDA (TACL 2024)](https://github.com/tmu-nlp/SEEDA) 
+    - Sentence-based and edit-based human evaluation dataset for GEC
+- [CAMERA (NLP 2023)](https://github.com/CyberAgentAILab/camera)
+    - Multimodal dataset for ad text generation in Japanese
 - [JaLeCoN (BEA 2023)](https://github.com/naist-nlp/jalecon) 
     - Dataset of Japanese lexical complexity for non-native readers
-
+- [ClozEx (EMNLP 2023, Findings)](https://github.com/zz-zhang/ClozEx)
 - [CELA (EACL 2023, Findings)](https://github.com/zz-zhang/cloze-quality-estimation)
     - Datast for cloze quality estimation
-- [ClozEx (EMNLP 2023, Findings)](https://github.com/zz-zhang/ClozEx)
+
+- [TETRA (NLP 2022)](https://github.com/chemicaltree/tetra) 
+    - Document revision corpus
     - Dataset for a task of generation of English cloze explanation
 - [ProQE (LREC 2022)](https://github.com/tmu-nlp/ProQE)
     - Proficiency-wise quality estimation dataset
+- [敬語変換タスクにおける評価用データセット (JSAI 2022)](https://github.com/cl-tohoku/keigo_transfer_task)
+    - 日本語学習者支援のための敬語変換タスクにおける評価用データセット
 
-- [FLUTEC](https://github.com/kiyama-hajime/FLUTEC)
+- [FLUTEC (NLP 2022)](https://github.com/kiyama-hajime/FLUTEC)
      - Evaluation dataset for Japanese grammatical error correction on fluency edits
 - [PheMT (COLING 2020)](https://github.com/cl-tohoku/PheMT)
     - Phenomenon-wise dataset designed for evaluating the robustness of Japanese-English machine translation systems
 - [GitHub Typo Corpus (LREC 2020)](https://github.com/mhagiwara/github-typo-corpus)
     - Large-scale multilingual dataset of misspellings and grammatical errors
-- [敬語変換タスクにおける評価用データセット](https://github.com/cl-tohoku/keigo_transfer_task)
-    - 日本語学習者支援のための敬語変換タスクにおける評価用データセット
-
 
 
 ## Tools
