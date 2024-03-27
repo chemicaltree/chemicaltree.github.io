@@ -198,6 +198,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## arXiv
 
+1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ['Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction'](https://arxiv.org/abs/2403.17540) arXiv:2403.17540 
+
 1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
 
 1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://arxiv.org/abs/2205.11484) arXiv:2205.11484.
