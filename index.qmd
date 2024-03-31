@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- 東京大学 大学院総合文化研究科 言語情報科学専攻 （[言語計算認知科学 大関研究室](https://phiz.c.u-tokyo.ac.jp/~oseki/index.html)）の博士後期課程に入学しました。
 - 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
 - Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted in TACL.
 - 第258回 自然言語処理研究会（NL研）で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
@@ -333,6 +334,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - 2014.8 - 2014.8  [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
 
 ## Education
+- 2024.4 - Present Ph.D student in [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Supervisor: Yohei Oseki)
 - 2018.10  - 2021.9  Ph.D. in Information Science, [Tohoku University](https://www.tohoku.ac.jp/japanese/) (Supervisor: Prof. Kentaro Inui)
 - 2014.4 - 2016.3  M.S. in Engineering, [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/) (Supervisor: Prof. Yuji Matsumoto)
 - 2010.4 - 2014.3  B.A. , [Prefectural University of Hiroshima](https://www.pu-hiroshima.ac.jp/)
