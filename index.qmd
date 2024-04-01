@@ -16,6 +16,8 @@ about:
 :::{#heading}
 Lead Research Scientist @ [NLP Team, CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
+Ph.D student @ [Oseki Lab, The Universit of Tokyo](https://phiz.c.u-tokyo.ac.jp/~oseki/index.html)
+
 Project Assistant Professor @ [Tokyo Metropolitan University](https://www.tmu.ac.jp/)
 
 Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
