@@ -336,7 +336,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - 2014.8 - 2014.8  [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
 
 ## Education
-- 2024.4 - Present Ph.D student in [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Supervisor: Yohei Oseki)
+- 2024.4 - Present Ph.D student in [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Supervisor: Senior Lec. Yohei Oseki)
 - 2018.10  - 2021.9  Ph.D. in Information Science, [Tohoku University](https://www.tohoku.ac.jp/japanese/) (Supervisor: Prof. Kentaro Inui)
 - 2014.4 - 2016.3  M.S. in Engineering, [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/) (Supervisor: Prof. Yuji Matsumoto)
 - 2010.4 - 2014.3  B.A. , [Prefectural University of Hiroshima](https://www.pu-hiroshima.ac.jp/)
