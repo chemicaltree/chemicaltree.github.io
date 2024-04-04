@@ -37,9 +37,11 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Research Interest
 
-- Natural Language Processing (NLP) / Computational Linguistics (CL)
+- Natural Language Processing (NLP)
+- Computational (Psycho) linguistics
 - NLP for Education and Advertising
 - Resource and Evaluation
+- Cognitive modeling
 
 ## Publication
 
