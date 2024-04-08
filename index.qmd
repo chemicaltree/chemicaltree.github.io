@@ -48,30 +48,18 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 ::: {.panel-tabset}
 
 
-## Journal
+
+
+## Refereed papers
 
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://arxiv.org/abs/2403.02674) Transactions of the Association for Computational Linguistics. <span class="conf-tag">TACL</span>
+
+1. Go Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. CATG-Corpus: An Evaluation Dataset for Controllable Ad Text Generation in Japanese. Proceedings of the LREC-COLING 2024. <span class="conf-tag">LREC</span>  <span class="conf-tag">COLING</span>
+1. 	Naoya Ueda, Masato Mita, Teruaki Oka and Mamoru Komachi. Token-length Bias in Minimal-pair Paradigm Datasets. Proceedings of the LREC-COLING 2024. <span class="conf-tag">LREC</span>  <span class="conf-tag">COLING</span>
 
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. "Cloze Quality Estimation for Language Assessment." Journal of Natural Language Processing (in Japanese) Vol.31, No.2. <span class="conf-tag">JNLP</span>
 
 
-1. Aomi Koyama, Tomoshige Kiyuna, Kenji Kobayashi, Mio Arai, Masato Mita, Teruaki Oka and Mamoru Komachi. ["Construction of an Error-Tagged Evaluation Corpus for Japanese Grammatical Error Correction."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_330/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.30, No.2. <span class="conf-tag">JNLP</span>
-
-1. Hongfei Wang, Michiki Kurosawa, Satoru Katsumata,  Masato Mita, Mamoru Komachi. ["Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data."](https://dl.acm.org/doi/10.1145/3570209) Transactions on Asian and Low-Resource Language Information Processing. <span class="conf-tag">TALIP</span>
-
-1. Ikumi Yamashita, Masahiro Kaneko, Masato Mita, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. ["Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning."](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.29, No.2. <span class="conf-tag">JNLP</span> 
-
-1. Ryo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. ["Phenomenon-wise Evaluation Dataset Towards Analyzing Robustness of Machine Translation Models."](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_450/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.28, No.2. <span class="conf-tag">JNLP</span> 
-
-
-1. Masato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Sectional Evaluation of Grammatical Error Correction Models."](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.28, No.1. <span class="conf-tag">JNLP</span>
-
-
-
-## Conference
-
-1. Go Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. CATG-Corpus: An Evaluation Dataset for Controllable Ad Text Generation in Japanese. Proceedings of the LREC-COLING 2024. <span class="conf-tag">LREC</span>  <span class="conf-tag">COLING</span>
-1. 	Naoya Ueda, Masato Mita, Teruaki Oka and Mamoru Komachi. Token-length Bias in Minimal-pair Paradigm Datasets. Proceedings of the LREC-COLING 2024. <span class="conf-tag">LREC</span>  <span class="conf-tag">COLING</span>
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. ["ClozEx: A Task toward Generation of English Cloze Explanation."](https://aclanthology.org/2023.findings-emnlp.347/) Findings of EMNLP 2023. <span class="conf-tag">EMNLP Findings</span>
 
 1. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita. ["A Report on FCG GenChal 2022: Shared Task on Feedback Comment Generation for Language Learners."](https://sigdialinlg2023.github.io/static/papers/genchal/130.pdf) Proceedings of the INLG 2023. <span class="conf-tag">INLG</span>
@@ -80,12 +68,27 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. ["Cloze Quality Estimation for Language Assessment."](https://aclanthology.org/2023.findings-eacl.39/) Findings of EACL 2023. <span class="conf-tag">EACL Findings</span>
 
+1. Aomi Koyama, Tomoshige Kiyuna, Kenji Kobayashi, Mio Arai, Masato Mita, Teruaki Oka and Mamoru Komachi. ["Construction of an Error-Tagged Evaluation Corpus for Japanese Grammatical Error Correction."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_330/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.30, No.2. <span class="conf-tag">JNLP</span>
+
+1. Hongfei Wang, Michiki Kurosawa, Satoru Katsumata,  Masato Mita, Mamoru Komachi. ["Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data."](https://dl.acm.org/doi/10.1145/3570209) Transactions on Asian and Low-Resource Language Information Processing. <span class="conf-tag">TALIP</span>
+
+1. Ikumi Yamashita, Masahiro Kaneko, Masato Mita, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. ["Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning."](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.29, No.2. <span class="conf-tag">JNLP</span> 
+
 1. Yujin Takahashi, Masahiro Kaneko, Masato Mita, Mamoru Komachi. ["ProQE: Proficiency-wise Quality Estimation dataset for Grammatical Error Correction"](https://aclanthology.org/2022.lrec-1.644/) Proceedings of the LREC 2022. <span class="conf-tag">LREC</span>
 
 1. Daisuke Suzuki, Yujin Takahashi, Ikumi Yamashita, Taichi Aida, Tosho Hirasawa, Michitaka Nakatsuji, Masato Mita, Mamoru Komachi. ["Construction of a Quality Estimation Dataset for Automatic Evaluation of Japanese Grammatical Error Correction."](https://aclanthology.org/2022.lrec-1.596/) Proceedings of the LREC 2022. <span class="conf-tag">LREC</span>
 
+1. Ikumi Yamashita, Masahiro Kaneko, Masato Mita, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. ["Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning."](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.29, No.2. <span class="conf-tag">JNLP</span> 
+
 
 1. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, Masato Mita, Artem Chernodub, Olena Nahorna. ["Shared Task on Feedback Comment Generation for Language Learners."](https://aclanthology.org/2021.inlg-1.35/) Proceedings of the INLG 2021. <span class="conf-tag">INLG</span>
+
+
+1. Ryo Fujii, Masato Mita, Kaori Abe, Kazuaki Hanawa, Makoto Morishita, Jun Suzuki, Kentaro Inui. ["Phenomenon-wise Evaluation Dataset Towards Analyzing Robustness of Machine Translation Models."](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_450/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.28, No.2. <span class="conf-tag">JNLP</span> 
+
+
+1. Masato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Sectional Evaluation of Grammatical Error Correction Models."](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.28, No.1. <span class="conf-tag">JNLP</span>
+
 
 1. Masato Mita, Hitomi Yanaka. ["Do Grammatical Error Correction Models Realize Grammatical Generalization?."](https://aclanthology.org/2021.findings-acl.399/) Findings of the ACL-IJCNLP 2021. <span class="conf-tag">ACL Findings</span>
 
@@ -111,7 +114,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Tomoya Mizumoto, Masato Mita, Yuji Matsumoto. ["Grammatical Error Correction Considering Multi-word Expressions."](https://aclanthology.org/W15-4412/) ACL-IJCNLP Workshop TEA. <span class="conf-tag">TEA</span>
 
-## Meeting/Symposium
+## Domestic conferences
 
 1. 栗原健太郎, 三田雅人, 張培楠, 佐々木翔太, 石上亮介, 岡崎直観. "LCTG Bench: 日本語 LLM の制御性ベンチマークの構築." 言語処理学会第30回年次大会 (NLP2024).
 
@@ -201,7 +204,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. 三田 雅人, 水本 智也. "Project Next 英文校正タスクの前置詞誤りエラー分析に向けて." NLP若手の会 第9回シンポジウム (YANS2014).
 
-## arXiv
+## Preprints
 
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ['Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction'](https://arxiv.org/abs/2403.17540) arXiv:2403.17540 
 
@@ -310,7 +313,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
 
-## Academic Activity
+## Activities/organizer
 
 1. [情報処理学会 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0))
 1. [言語処理学会, 編集委員](https://www.anlp.jp/guide/editors.html)
@@ -320,7 +323,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. Reviewer: CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
-## Research Grant
+## Research Grants
 1. 科研費 基盤B「深層学習による言語生成の評価データセットの構築と品質推定」, 共同研究者（代表者: 小町守）
 
 
