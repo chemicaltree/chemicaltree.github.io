@@ -54,7 +54,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. Revisiting Meta-evaluation for Grammatical Error Correction. Transactions of the Association for Computational Linguistics (TACL). 
 
-1. Go Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. CATG-Corpus: An Evaluation Dataset for Controllable Ad Text Generation in Japanese. Proceedings of the LREC-COLING 2024.
+1. Go Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese. Proceedings of the LREC-COLING 2024.
 
 1. 	Naoya Ueda, Masato Mita, Teruaki Oka and Mamoru Komachi. Token-length Bias in Minimal-pair Paradigm Datasets. Proceedings of the LREC-COLING 2024.
 
