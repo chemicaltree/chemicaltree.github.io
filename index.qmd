@@ -50,6 +50,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Refereed papers
 
+1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond. Proceedings of the BEA 2024.
+
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. Revisiting Meta-evaluation for Grammatical Error Correction. Transactions of the Association for Computational Linguistics (TACL). 
 
 1. Go Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese. Proceedings of the LREC-COLING 2024.
@@ -208,7 +210,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
 
-1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://arxiv.org/abs/2205.11484) arXiv:2205.11484.
 
 
 ## Awards 
