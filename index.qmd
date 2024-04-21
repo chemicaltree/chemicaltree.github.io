@@ -37,8 +37,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## Research Interest
 
-- Educational NLP (esp. Grammatical Error Correction)
-- Human-centured NLP (esp. Ad Text Generation)
+- Educational NLP 
+- Human-centured NLP 
 - Cognitive modeling
 
 ## Publication
@@ -116,7 +116,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 1. Tomoya Mizumoto, Masato Mita, Yuji Matsumoto. ["Grammatical Error Correction Considering Multi-word Expressions."](https://aclanthology.org/W15-4412/) Proceedings of the TEA 2015. 
 
-## Domestic conferences
+## Non-refereed papers
 
 1. 栗原健太郎, 三田雅人, 張培楠, 佐々木翔太, 石上亮介, 岡崎直観. "LCTG Bench: 日本語 LLM の制御性ベンチマークの構築." 言語処理学会第30回年次大会 (NLP2024).
 
@@ -207,8 +207,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 1. 三田 雅人, 水本 智也. "Project Next 英文校正タスクの前置詞誤りエラー分析に向けて." NLP若手の会 第9回シンポジウム (YANS2014).
 
 ## Preprints
-
-
 
 1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
 
