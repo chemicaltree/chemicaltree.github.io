@@ -28,7 +28,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 ## News
 - I have become a [Senior Action Editor](https://aclrollingreview.org/people) of the ACL Rolling Review (ARR).
-- 東京大学 大学院総合文化研究科 言語情報科学専攻 （[言語計算認知科学 大関研究室](https://phiz.c.u-tokyo.ac.jp/~oseki/index.html)）の博士後期課程に入学しました。
 - 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
 - Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted at TACL.
 - 第258回 自然言語処理研究会（NL研）で共著論文「文法誤り訂正におけるメタ評価の再考」が[優秀研究賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr)を受賞しました。
