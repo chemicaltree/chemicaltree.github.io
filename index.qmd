@@ -27,6 +27,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- Our paper "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation" has been accepted at ACL 2024 (main, long).
 - I have become a [Senior Action Editor](https://aclrollingreview.org/people) of the ACL Rolling Review (ARR).
 - 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
 - Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted at TACL.
@@ -48,6 +49,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 
 ## Refereed papers
+1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation. Proceedings of ACL 2024.
 
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction. Proceedings of the BEA 2024.
 
