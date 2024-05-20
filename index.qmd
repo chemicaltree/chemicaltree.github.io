@@ -49,7 +49,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 
 ## Refereed papers
-1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation. Proceedings of ACL 2024.
+1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation. Proceedings of the ACL 2024.
 
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction. Proceedings of the BEA 2024.
 
