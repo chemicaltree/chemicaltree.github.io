@@ -43,6 +43,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 - Cognitive modeling
 
 ## Publication
+See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
 
 ::: {.panel-tabset}
 
@@ -314,7 +315,6 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 
 :::
 
-See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
 
 ## Activities/organizer
 
