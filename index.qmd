@@ -39,8 +39,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 ## Research Interest
 
 - Educational NLP 
-- Human-centured NLP 
-- Cognitive modeling
+- Human-centered NLP 
+- Computational (Psycho)linguistics
 
 ## Publication
 See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
