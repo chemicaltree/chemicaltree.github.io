@@ -64,7 +64,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. 	Naoya Ueda, Masato Mita, Teruaki Oka and Mamoru Komachi. ["Token-length Bias in Minimal-pair Paradigm Datasets."](https://aclanthology.org/2024.lrec-main.1410/) Proceedings of the LREC-COLING 2024.
 
-1. Zizheng Zhang, Masato Mita, Mamoru Komachi. "Cloze Quality Estimation for Language Assessment." Journal of Natural Language Processing (in Japanese) Vol.31, No.2. 
+1. Zizheng Zhang, Masato Mita, Mamoru Komachi. ["Cloze Quality Estimation for Language Assessment."](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_328/_article/-char/ja) Journal of Natural Language Processing (in Japanese) Vol.31, No.2. 
 
 
 1. Zizheng Zhang, Masato Mita, Mamoru Komachi. ["ClozEx: A Task toward Generation of English Cloze Explanation."](https://aclanthology.org/2023.findings-emnlp.347/) Findingss of the EMNLP 2023.
@@ -239,8 +239,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## Talk/Article
 
+1. ["NLP2024 テーマセッション「人間と計算機のことばの評価」"](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_755/_article/-char/ja). 自然言語処理 31巻2号. (2024.6)
 
-1. ["NLP2023 テーマセッション「ことばの評価と品質推定」."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_844/_article/-char/ja) 自然言語処理 30巻2号. (2023.6) 
+1. ["NLP2023 テーマセッション「ことばの評価と品質推定」."](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_844/_article/-char/ja). 自然言語処理 30巻2号. (2023.6) 
 
 1. ["NLP2023参加報告."](https://moneyforward.connpass.com/event/276611/) NLP2023 参加報告会 presented by Money Forward Lab
 
