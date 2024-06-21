@@ -27,8 +27,8 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
-- Our paper "Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding." has been accepted at TACL.
-- Our paper "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation" has been accepted at ACL 2024.
+- Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
+- Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
 - I have become a [Senior Action Editor](https://aclrollingreview.org/people) of the ACL Rolling Review (ARR).
 - Our two papers has been accepted at LREC-COLING 2024.
 - 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
@@ -50,15 +50,15 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Refereed papers
-1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, Masato Mita. Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding. Transactions of the Association for Computational Linguistics (TACL). 
+1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, Masato Mita. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL). 
 
-1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation. Proceedings of the ACL 2024.
+1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://arxiv.org/abs/2309.12030) Proceedings of the ACL 2024.
 
-1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction. Proceedings of the BEA 2024.
+1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction."](https://arxiv.org/abs/2403.17540) Proceedings of the BEA 2024.
 
 1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond. Proceedings of the BEA 2024.
 
-1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. Revisiting Meta-evaluation for Grammatical Error Correction. Transactions of the Association for Computational Linguistics (TACL). 
+1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://arxiv.org/abs/2403.02674) Transactions of the Association for Computational Linguistics (TACL). 
 
 1. Go Inoue, Akihiko Kato, Masato Mita, Ukyo Honda and Peinan Zhang. ["CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese."](https://aclanthology.org/2024.lrec-main.242/) Proceedings of the LREC-COLING 2024.
 
