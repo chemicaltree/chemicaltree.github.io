@@ -3,7 +3,7 @@ title: "Masato Mita"
 about:
   id: heading
   template: solana
-  image: figures/2024-07.jpg
+  image: figures/2024_v2.jpg
   links:
     - icon: envelope
       text: e-mail
