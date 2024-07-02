@@ -16,8 +16,6 @@ about:
 :::{#heading}
 Lead Research Scientist @ [NLP Team, CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
-Ph.D student @ [Oseki Lab, The Universit of Tokyo](https://phiz.c.u-tokyo.ac.jp/~oseki/index.html)
-
 Project Assistant Professor @ [Tokyo Metropolitan University](https://www.tmu.ac.jp/)
 
 Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
@@ -29,6 +27,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 ## News
 - Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
 - Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
+- Our two papers has been accepted at BEA2024.
 - I have become a [Senior Action Editor](https://aclrollingreview.org/people) of the ACL Rolling Review (ARR).
 - Our two papers has been accepted at LREC-COLING 2024.
 - 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
@@ -54,9 +53,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://arxiv.org/abs/2309.12030) Proceedings of the ACL 2024.
 
-1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction."](https://arxiv.org/abs/2403.17540) Proceedings of the BEA 2024.
+1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction."](https://aclanthology.org/2024.bea-1.6/) Proceedings of the BEA 2024.
 
-1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond. Proceedings of the BEA 2024.
+1. Masato Mita, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://aclanthology.org/2024.bea-1.21/) Proceedings of the BEA 2024.
 
 1. Masamune Kobayashi, Masato Mita, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://arxiv.org/abs/2403.02674) Transactions of the Association for Computational Linguistics (TACL). 
 
@@ -209,10 +208,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. 水本 智也, 三田 雅人. ["Project Next 英文校正タスク: 前置詞誤りを対象とした誤り分析."](https://www.anlp.jp/proceedings/annual_meeting/2015/html/paper/WS_PNN13_e-proofreading.pdf) 言語処理学会第21回年次大会 (NLP2015).
 
 1. 三田 雅人, 水本 智也. "Project Next 英文校正タスクの前置詞誤りエラー分析に向けて." NLP若手の会 第9回シンポジウム (YANS2014).
-
-## Preprints
-
-1. Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation."](https://arxiv.org/abs/2309.12030) arXiv:2309.12030. 
 
 
 
