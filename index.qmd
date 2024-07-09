@@ -36,9 +36,10 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::
 
 ## Research Interest
-
-- (Educational, Human-centered) NLP
+- Natural Language Processing
+    - Applications for Education and Advertising
 - Computational (Psycho)linguistics
+    - Language acquisition, Language evolution
 
 ## Publication
 See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
