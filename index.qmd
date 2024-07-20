@@ -58,7 +58,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. <u>Masato Mita</u>, Keisuke Sakaguchi, Masato Hagiwara, Tomoya Mizumoto, Jun Suzuki, Kentaro Inui. ["Towards Automated Document Revision: Grammatical Error Correction, Fluency Edits, and Beyond."](https://aclanthology.org/2024.bea-1.21/) Proceedings of the BEA 2024.
 
-1. Masamune Kobayashi, <u>Masato Mita</u>, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://arxiv.org/abs/2403.02674) Transactions of the Association for Computational Linguistics (TACL). 
+1. Masamune Kobayashi, <u>Masato Mita</u>, Mamoru Komachi. ["Revisiting Meta-evaluation for Grammatical Error Correction."](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00676/123651/Revisiting-Meta-evaluation-for-Grammatical-Error) Transactions of the Association for Computational Linguistics (TACL). 
 
 1. Go Inoue, Akihiko Kato, <u>Masato Mita</u>, Ukyo Honda and Peinan Zhang. ["CAMERA3: An Evaluation Dataset for Controllable Ad Text Generation in Japanese."](https://aclanthology.org/2024.lrec-main.242/) Proceedings of the LREC-COLING 2024.
 
