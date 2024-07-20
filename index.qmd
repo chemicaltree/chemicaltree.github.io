@@ -298,15 +298,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
     - Large-scale multilingual dataset of misspellings and grammatical errors
 
 
-## Tools
-- [GoToScorer (COLING 2020)](https://github.com/gotutiyan/GTS)
-- [GEC with BERT (ACL 2020)](https://github.com/kanekomasahiro/bert-gec)
-- [GEC with Pseudo Data (EMNLP 2019)](https://github.com/butsugiri/gec-pseudodata)
-- [Cross Corpus Evaluation for GEC (NAACL 2019)](https://github.com/tomo-wb/GEC_CCE)
-
-
-
-
 
 
 :::
