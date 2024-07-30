@@ -79,8 +79,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. Hongfei Wang, Michiki Kurosawa, Satoru Katsumata,  <u>Masato Mita</u>, Mamoru Komachi. ["Chinese Grammatical Error Correction Using Pre-trained Models and Pseudo Data."](https://dl.acm.org/doi/10.1145/3570209) Transactions on Asian and Low-Resource Language Information Processing (TALIP). 
 
-1. Ikumi Yamashita, Masahiro Kaneko, <u>Masato Mita</u>, Satoru Katsumata, Aizhan Imankulova, Mamoru Komachi. ["Grammatical Error Correction with Pre-trained Model and Multilingual Learner Corpus for Cross-lingual Transfer Learning."](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja/) Journal of Natural Language Processing (in Japanese) Vol.29, No.2.
-
 1. Yujin Takahashi, Masahiro Kaneko, <u>Masato Mita</u>, Mamoru Komachi. ["ProQE: Proficiency-wise Quality Estimation dataset for Grammatical Error Correction"](https://aclanthology.org/2022.lrec-1.644/) Proceedings of the LREC 2022. 
 
 1. Daisuke Suzuki, Yujin Takahashi, Ikumi Yamashita, Taichi Aida, Tosho Hirasawa, Michitaka Nakatsuji, <u>Masato Mita</u>, Mamoru Komachi. ["Construction of a Quality Estimation Dataset for Automatic Evaluation of Japanese Grammatical Error Correction."](https://aclanthology.org/2022.lrec-1.596/) Proceedings of the LREC 2022. 
