@@ -314,7 +314,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - JNLP2021 (sub) → <span class="custom-color">accpet</span>
 - JNLP2022 (sub) → <span class="custom-color">accpet</span>
 - LREC2022 (sub)×2 → <span class="custom-color">accpet×2</span>
-- EMNLP2022 (main) → accept (findings) → withdraw
+- EMNLP2022 (main) → <span class="custom-color">accpet (findings)</span> → withdraw
 - TALIP2023 (sub) → <span class="custom-color">accpet</span>
 - JNLP2023 (sub) → <span class="custom-color">accpet</span>
 - ACL2023 (main) → reject
