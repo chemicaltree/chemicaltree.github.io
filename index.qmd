@@ -301,7 +301,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - EMNLP2015 (main) → Rejected
 - ACL2016 (main) → Rejected
 - NAACL2019 (main) → <span class="custom-color">Accepted</span>
-- BEA 2019 (sub) → <span class="custom-color">Accepted</span>
+- BEA2019 (sub) → <span class="custom-color">Accepted</span>
 - EMNLP2019 (sub) → <span class="custom-color">Accepted</span>
 - LREC2020 (sub) → <span class="custom-color">Accepted</span>
 - ACL2020 (main) → Withdraw
@@ -309,7 +309,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - ACL-SRW2020 (sub) → <span class="custom-color">Accepted</span>
 - EMNLP2020 (main) → <span class="custom-color">Accepted (Findings)</span>
 - COLING2020 (sub) ×2 → <span class="custom-color">Accepted×2</span>
-- ACL 2021 (main) → <span class="custom-color">Accepted (Findings)</span>
+- ACL2021 (main) → <span class="custom-color">Accepted (Findings)</span>
 - JNLP2021 (main) → <span class="custom-color">Accepted</span>
 - JNLP2021 (sub) → <span class="custom-color">Accepted</span>
 - JNLP2022 (sub) → <span class="custom-color">Accepted</span>
