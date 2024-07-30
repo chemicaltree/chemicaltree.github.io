@@ -307,19 +307,19 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - ACL2020 (main) → Withdraw
 - ACL2020 (sub)×2 → <span class="custom-color">Accepted×1</span>, Rejected×1
 - ACL-SRW2020（sub）→ <span class="custom-color">Accepted</span>
-- EMNLP2020 (main) → <span class="custom-color">Accepted (findings)</span>
+- EMNLP2020 (main) → <span class="custom-color">Accepted (Findings)</span>
 - COLING (sub) ×2 → <span class="custom-color">Accepted×2</span>
-- ACL 2021 (main) → <span class="custom-color">Accepted (findings)</span>
+- ACL 2021 (main) → <span class="custom-color">Accepted (Findings)</span>
 - JNLP2021 (sub) → <span class="custom-color">Accepted</span>
 - JNLP2021 (sub) → <span class="custom-color">Accepted</span>
 - JNLP2022 (sub) → <span class="custom-color">Accepted</span>
 - LREC2022 (sub)×2 → <span class="custom-color">Accepted×2</span>
-- EMNLP2022 (main) → <span class="custom-color">Accepted (findings)</span> → Withdraw
+- EMNLP2022 (main) → <span class="custom-color">Accepted (Findings)</span> → Withdraw
 - TALIP2023 (sub) → <span class="custom-color">Accepted</span>
 - JNLP2023 (sub) → <span class="custom-color">Accepted</span>
 - ACL2023 (main) → Rejected
-- EACL2023 (sub) → <span class="custom-color">Accepted (findings)</span>
-- EMNLP2023 (sub) → <span class="custom-color">Accepted (findings)</span>
+- EACL2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
+- EMNLP2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
 - AACL2023 (main) → Rejected
 - LREC-COLING2024 (sub)×3 → <span class="custom-color">Accepted×2</span>, Rejected×1
 - TACL2024 (sub)×3→ <span class="custom-color">Accepted×2</span>, Rejected×1
