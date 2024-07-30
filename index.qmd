@@ -296,6 +296,39 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
     - Large-scale multilingual dataset of misspellings and grammatical errors
 
 
+## Trajectory of Challenges
+- TEA 2015 (sub) → <span class="custom-color">accpet</span>
+- EMNLP2015 (main) →reject
+- ACL2016 (main) → reject
+- NAACL 2019 (main) → <span class="custom-color">accpet</span>
+- BEA 2019（sub）→ <span class="custom-color">accpet</span>
+- EMNLP2019 (sub) → <span class="custom-color">accpet</span>
+- LREC2020 (sub) → <span class="custom-color">accpet</span>
+- ACL2020 (main) → withdraw
+- ACL2020 (sub)×2 → <span class="custom-color">accpet×1</span>, reject×1
+- ACL-SRW2020（sub）→ <span class="custom-color">accpet</span>
+- EMNLP2020 (main) → <span class="custom-color">accpet (findings)</span>
+- COLING (sub) ×2 → <span class="custom-color">accpet×2</span>
+- ACL 2021 (main) → <span class="custom-color">accpet (findings)</span>
+- JNLP2021 (sub) → <span class="custom-color">accpet</span>
+- JNLP2021 (sub) → <span class="custom-color">accpet</span>
+- JNLP2022 (sub) → <span class="custom-color">accpet</span>
+- LREC2022 (sub)×2 → <span class="custom-color">accpet×2</span>
+- EMNLP2022 (main) → accept (findings) → withdraw
+- TALIP2023 (sub) → <span class="custom-color">accpet</span>
+- JNLP2023 (sub) → <span class="custom-color">accpet</span>
+- ACL2023 (main) → reject
+- EACL2023 (sub) → <span class="custom-color">accpet (findings)</span>
+- EMNLP2023 (sub) → <span class="custom-color">accpet (findings)</span>
+- AACL2023 (main) → reject
+- LREC-COLING2024 (sub)×3 → <span class="custom-color">accpet×2</span>, reject×1
+- TACL2024 (sub)×3→ <span class="custom-color">accpet×2</span>, reject×1
+- BEA2024 (main) → <span class="custom-color">accpet</span>
+- BEA2024 (sub) → <span class="custom-color">accpet</span>
+- ACL2024 (main) → <span class="custom-color">accpet</span>
+- ACL-SRW2024 (sub)×2 → reject×2
+- INLG2024 (sub) → reject
+- COLM2024 (sub) → reject
 
 
 :::
