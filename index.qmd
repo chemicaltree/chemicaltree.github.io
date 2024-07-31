@@ -322,11 +322,13 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - EACL2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
 - EMNLP2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
 - AACL2023 (main) → Rejected
+- JNLP2024 (sub) → <span class="custom-color">Accepted</span>
 - LREC-COLING2024 (sub) ×3 → <span class="custom-color">Accepted ×2</span>, Rejected ×1
 - TACL2024 (sub) ×3 → <span class="custom-color">Accepted ×2</span>, Rejected ×1
 - BEA2024 (main) → <span class="custom-color">Accepted</span>
 - BEA2024 (sub) → <span class="custom-color">Accepted</span>
 - ACL2024 (main) → <span class="custom-color">Accepted</span>
+- ACL2024 (sub) → Rejected
 - ACL-SRW2024 (sub)×2 → Rejected ×2
 - INLG2024 (sub) → Rejected
 - COLM2024 (sub) → Rejected
