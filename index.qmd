@@ -27,9 +27,9 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 ## News
 - Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
 - Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
-- Our two papers has been accepted at BEA2024.
+- Our two papers have been accepted at BEA2024.
 - I have become a [Senior Action Editor](https://aclrollingreview.org/people) of the ACL Rolling Review (ARR).
-- Our two papers has been accepted at LREC-COLING 2024.
+- Our two papers have been accepted at LREC-COLING 2024.
 - 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
 - Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted at TACL.
 
