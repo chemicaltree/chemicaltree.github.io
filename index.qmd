@@ -120,6 +120,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## Non-refereed papers
 
+1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising"](https://arxiv.org/abs/2408.05906). arXiv:2408.05906
+
+
 1. 栗原 健太郎, <u>三田 雅人</u>, 張 培楠, 佐々木 翔太, 石上 亮介, 岡崎 直観. "LCTG Bench: 日本語 LLM の制御性ベンチマークの構築." 言語処理学会第30回年次大会 (NLP2024).
 
 1. 上田 直生也, <u>三田 雅人</u>, 小町 守. "Minimul-pair Paradigmデータセットにおけるトークン長バイアスの分析と改善." 言語処理学会第30回年次大会 (NLP2024).
@@ -207,7 +210,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. 水本 智也, <u>三田 雅人</u>. ["Project Next 英文校正タスク: 前置詞誤りを対象とした誤り分析."](https://www.anlp.jp/proceedings/annual_meeting/2015/html/paper/WS_PNN13_e-proofreading.pdf) 言語処理学会第21回年次大会 (NLP2015).
 
 1. <u>三田 雅人</u>, 水本 智也. "Project Next 英文校正タスクの前置詞誤りエラー分析に向けて." NLP若手の会 第9回シンポジウム (YANS2014).
-
 
 
 ## Awards 
