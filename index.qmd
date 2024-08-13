@@ -52,7 +52,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 ## Refereed papers
 1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL). 
 
-1. <u>Masato Mita</u>, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://arxiv.org/abs/2309.12030) Proceedings of the ACL 2024.
+1. <u>Masato Mita</u>, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://aclanthology.org/2024.acl-long.54/) Proceedings of the ACL 2024.
 
 1. Masamune Kobayashi, <u>Masato Mita</u>, Mamoru Komachi. ["Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction."](https://aclanthology.org/2024.bea-1.6/) Proceedings of the BEA 2024.
 
