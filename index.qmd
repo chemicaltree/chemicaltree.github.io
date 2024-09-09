@@ -120,6 +120,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## Non-refereed papers
 
+1. 佐藤郁子, 金輝燦, 陳宙斯, <u>三田雅人</u>, 小町守. テキスト評価におけるLLMアラインメント手法の影響分析. 第19回YANSシンポジウム (YANS2024).
+
 1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising"](https://arxiv.org/abs/2408.05906). arXiv:2408.05906
 
 
