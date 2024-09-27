@@ -336,6 +336,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - ACL-SRW2024 (sub)×2 → Rejected ×2
 - INLG2024 (sub) → Rejected
 - COLM2024 (sub) → Rejected
+- NeurIPS2024 D&B Track (sub) → Rejected
 
 
 :::
