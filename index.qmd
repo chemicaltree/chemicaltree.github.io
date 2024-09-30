@@ -327,7 +327,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - ACL2023 (main) → Rejected
 - BEA2023 (sub) → <span class="custom-color">Accepted</span>
 - EACL2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
-- EMNLP2023 (main) → Withdraw
 - EMNLP2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
 - AACL2023 (main) → Rejected
 - JNLP2024 (sub) → <span class="custom-color">Accepted</span>
