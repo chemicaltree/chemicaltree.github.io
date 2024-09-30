@@ -341,6 +341,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - INLG2024 (sub) → Rejected
 - COLM2024 (sub) → Rejected
 - NeurIPS2024 D&B Track (sub) → Rejected
+- JACIII2024 → <span class="custom-color">Accepted</span>
 
 
 :::
