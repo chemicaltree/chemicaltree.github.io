@@ -51,7 +51,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Refereed papers
-1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, Masato Mita, Mamoru Komachi. Revisiting the Evaluation for Chinese Grammatical Error Correction. Journal of Advanced Computational Intelligence and Intelligent Informatics.
+1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, <u>Masato Mita</u>, Mamoru Komachi. Revisiting the Evaluation for Chinese Grammatical Error Correction. Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.
 
 1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL). 
 
