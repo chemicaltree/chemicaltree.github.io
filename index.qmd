@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- Our paper "Revisiting the Evaluation for Chinese Grammatical Error Correction" has been accepted to Journal of Advanced Computational Intelligence and Intelligent Informatics.
 - Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
 - Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
 - Our two papers have been accepted at BEA2024.
@@ -50,6 +51,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Refereed papers
+1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, Masato Mita, Mamoru Komachi. Revisiting the Evaluation for Chinese Grammatical Error Correction. Journal of Advanced Computational Intelligence and Intelligent Informatics.
+
 1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL). 
 
 1. <u>Masato Mita</u>, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://aclanthology.org/2024.acl-long.54/) Proceedings of the ACL 2024.
@@ -324,6 +327,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - ACL2023 (main) → Rejected
 - BEA2023 (sub) → <span class="custom-color">Accepted</span>
 - EACL2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
+- EMNLP2023 (main) → Withdraw
 - EMNLP2023 (sub) → <span class="custom-color">Accepted (Findings)</span>
 - AACL2023 (main) → Rejected
 - JNLP2024 (sub) → <span class="custom-color">Accepted</span>
