@@ -351,9 +351,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 #### Current
 
 1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) 
-1. [言語処理学会, 年次大会プログラム委員](https://anlp.jp/nlp2025/#committee)
-1. [言語処理学会, 編集委員](https://www.anlp.jp/guide/editors.html) 
-1. [言語処理学会, YANSシンポジウム運営委員](https://yans.anlp.jp/entry/yans2024members) 
+1. [言語処理学会, 年次大会, プログラム委員](https://anlp.jp/nlp2025/#committee)
+1. [言語処理学会, 自然言語処理論文誌, 編集委員](https://www.anlp.jp/guide/editors.html) 
+1. [言語処理学会, YANSシンポジウム, 運営委員](https://yans.anlp.jp/entry/yans2024members) 
 1. [情報処理学会 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) 
 
 #### Past
