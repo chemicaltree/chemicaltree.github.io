@@ -346,15 +346,21 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 :::
 
 
-## Activities/organizer
+## Academic Services
+### Organizer
+#### Current
 
-1. Reviewer: CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
-1. [情報処理学会 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) (2021 - 2025)
-1. [言語処理学会, 編集委員](https://www.anlp.jp/guide/editors.html) (2024 - 2026)
-1. [言語処理学会, YANSシンポジウム運営委員](https://yans.anlp.jp/entry/yans2024members) (2024 - 2026)
-1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) (2024 - )
+1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) 
+1. [言語処理学会, 年次大会プログラム委員](https://anlp.jp/nlp2025/#committee)
+1. [言語処理学会, 編集委員](https://www.anlp.jp/guide/editors.html) 
+1. [言語処理学会, YANSシンポジウム運営委員](https://yans.anlp.jp/entry/yans2024members) 
+1. [情報処理学会 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) 
+
+#### Past
 1. [GenChal2022:FCG, Organizer](https://nagata-github.github.io/fcg_genchal/) (2019-2023)
 
+### Reviewer
+CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
 ## Research Grants
