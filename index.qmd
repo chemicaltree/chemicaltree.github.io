@@ -245,6 +245,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. 奨励賞 (ハッカソン オープン部門), NLP若手の会 第9回シンポジウム (2014年9月)
 
 ## Talk/Article
+1. ["【採択論文紹介】広告文生成タスクの既定とベンチマーク構築 (ACL2024)"](https://cyberagent.ai/blog/research/%e6%8e%a1%e6%8a%9e%e8%ab%96%e6%96%87%e7%b4%b9%e4%bb%8b/20053/). CyberAgent Blog.（2024.10）
 
 1. ["NLP2024 テーマセッション「人間と計算機のことばの評価」"](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_755/_article/-char/ja). 自然言語処理 31巻2号. (2024.6)
 
