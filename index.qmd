@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- Our paper "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" has been accepted to PACLIC 2024.
 - Our paper "Revisiting the Evaluation for Chinese Grammatical Error Correction" has been accepted to Journal of Advanced Computational Intelligence and Intelligent Informatics.
 - Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
 - Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
@@ -51,7 +52,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Refereed papers
-1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, <u>Masato Mita</u>, Mamoru Komachi. Revisiting the Evaluation for Chinese Grammatical Error Correction. Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.
+
+1. Ayako Sato, Tosho Hirasawa, Hwichan Kim, Zhousi Chen, Teruaki Oka, <u>Masato Mita</u>, Mamoru Komachi. "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" Proceedings of the PACLIC 2024.
+
+1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, <u>Masato Mita</u>, Mamoru Komachi. "Revisiting the Evaluation for Chinese Grammatical Error Correction." Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.
 
 1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL). 
 
@@ -122,6 +126,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. Tomoya Mizumoto, <u>Masato Mita</u>, Yuji Matsumoto. ["Grammatical Error Correction Considering Multi-word Expressions."](https://aclanthology.org/W15-4412/) Proceedings of the TEA 2015. 
 
 ## Non-refereed papers
+
+1. Akihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, Sho Hoshino, Peinan Zhang. ["FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation"](https://arxiv.org/abs/2410.03839). arXiv:2410.03839
 
 1. 佐藤郁子, 金輝燦, 陳宙斯, <u>三田雅人</u>, 小町守. テキスト評価におけるLLMアラインメント手法の影響分析. 第19回YANSシンポジウム (YANS2024).
 
@@ -341,6 +347,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - COLM2024 (sub) → Rejected
 - NeurIPS2024 D&B Track (sub) → Rejected
 - JACIII2024 → <span class="custom-color">Accepted</span>
+- PACLIC2024 → <span class="custom-color">Accepted</span>
 
 
 :::
