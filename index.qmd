@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/))
 - CADC2024にて「[CAMERA-Suite: 広告文生成のための評価スイート](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」を発表しました。
 - Our paper "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" has been accepted to PACLIC 2024.
 - Our paper "Revisiting the Evaluation for Chinese Grammatical Error Correction" has been accepted to Journal of Advanced Computational Intelligence and Intelligent Informatics.
