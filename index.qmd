@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
 - Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
 - CADC2024にて「[CAMERA-Suite: 広告文生成のための評価スイート](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」を発表しました。
 - Our paper "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" has been accepted to PACLIC 2024.
@@ -55,6 +56,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## Refereed papers
 
+1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising. Proceedings of the NAACL 2025.
 1. Ayako Sato, Tosho Hirasawa, Hwichan Kim, Zhousi Chen, Teruaki Oka, <u>Masato Mita</u>, Mamoru Komachi. "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" Proceedings of the PACLIC 2024.
 
 1. Hongfei Wang, Zhousi Chen, Zizheng Zhang, Zhidong Ling, Xiaomeng Pan, Wenjie Duan, <u>Masato Mita</u>, Mamoru Komachi. "Revisiting the Evaluation for Chinese Grammatical Error Correction." Journal of Advanced Computational Intelligence and Intelligent Informatics. Vol.28, No.6.
@@ -144,9 +146,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. Akihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, Sho Hoshino, Peinan Zhang. ["FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation"](https://arxiv.org/abs/2410.03839). arXiv:2410.03839
 
 1. 佐藤郁子, 金輝燦, 陳宙斯, <u>三田雅人</u>, 小町守. テキスト評価におけるLLMアラインメント手法の影響分析. 第19回YANSシンポジウム (YANS2024).
-
-1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising"](https://arxiv.org/abs/2408.05906). arXiv:2408.05906
-
 
 1. 栗原 健太郎, <u>三田 雅人</u>, 張 培楠, 佐々木 翔太, 石上 亮介, 岡崎 直観. "LCTG Bench: 日本語 LLM の制御性ベンチマークの構築." 言語処理学会第30回年次大会 (NLP2024).
 
