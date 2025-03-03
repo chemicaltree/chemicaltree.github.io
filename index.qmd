@@ -150,7 +150,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. 加藤明彦, <u>三田雅人</u>, 村上聡一郎, 本多右京, 星野翔, 張培楠. "FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築." 言語処理学会第31回年次大会(NLP2025) 
 
-1. <u>三田雅人</u>, 吉田遼, 深津聡世, 大関洋平. "作業記憶の発達的特性が言語獲得の臨界期を形成する." 言語処理学会第31回年次大会(NLP2025)
+1. <u>三田雅人</u>, 吉田遼, 深津聡世, 大関洋平. ["作業記憶の発達的特性が言語獲得の臨界期を形成する."](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B4-6.pdf) 言語処理学会第31回年次大会(NLP2025) [[Errata]](https://drive.google.com/file/d/1mXH9P6QUwV0HRGt5Z2KCQg4qfmwXlAiL/view?usp=sharing)
 
 1. <u>三田雅人</u>, 村上聡一郎, 本多右京, 岡達志. "AdPsyche: 広告心理学に基づく選好データセット" 言語処理学会第31回年次大会(NLP2025)
 
