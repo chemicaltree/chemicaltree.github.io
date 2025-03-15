@@ -25,6 +25,7 @@ Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_
 :::{.callout-note}
 
 ## News
+- 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
 - Our new preprint ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition"](https://arxiv.org/abs/2502.04795) is now available online.
 - Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
 - Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
@@ -146,11 +147,11 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. 大竹啓永, 張培楠,  坂井優介, <u>三田雅人</u>, 大内啓樹, 渡辺太郎. "広告画像ランキングによる視覚言語モデルの評価." 言語処理学会第31回年次大会(NLP2025)  
 
-1. 本多右京, 岡達志, 張培楠, <u>三田雅人</u>. "Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解." 言語処理学会第31回年次大会(NLP2025)  
+1. 本多右京, 岡達志, 張培楠, <u>三田雅人</u>. "Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解." 言語処理学会第31回年次大会(NLP2025) <span class="custom-color">🏆 委員特別賞</span>
 
-1. 加藤明彦, <u>三田雅人</u>, 村上聡一郎, 本多右京, 星野翔, 張培楠. "FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築." 言語処理学会第31回年次大会(NLP2025) 
+1. 加藤明彦, <u>三田雅人</u>, 村上聡一郎, 本多右京, 星野翔, 張培楠. "FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築." 言語処理学会第31回年次大会(NLP2025) <span class="custom-color">🏆 委員特別賞</span>
 
-1. <u>三田雅人</u>, 吉田遼, 深津聡世, 大関洋平. ["作業記憶の発達的特性が言語獲得の臨界期を形成する."](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B4-6.pdf) 言語処理学会第31回年次大会(NLP2025) [[Errata]](https://drive.google.com/file/d/1mXH9P6QUwV0HRGt5Z2KCQg4qfmwXlAiL/view?usp=sharing)
+1. <u>三田雅人</u>, 吉田遼, 深津聡世, 大関洋平. ["作業記憶の発達的特性が言語獲得の臨界期を形成する."](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B4-6.pdf) 言語処理学会第31回年次大会(NLP2025) [[Errata]](https://drive.google.com/file/d/1mXH9P6QUwV0HRGt5Z2KCQg4qfmwXlAiL/view?usp=sharing) <span class="custom-color">🏆 最優秀賞</span>
 
 1. <u>三田雅人</u>, 村上聡一郎, 本多右京, 岡達志. "AdPsyche: 広告心理学に基づく選好データセット" 言語処理学会第31回年次大会(NLP2025)
 
@@ -249,6 +250,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Awards 
+1. 最優秀賞, 言語処理学会第31回年次大会 (2025年3月)
+1. 委員特別賞, 言語処理学会第31回年次大会 (2025年3月)
+1. 委員特別賞, 言語処理学会第31回年次大会 (2025年3月)
 1. 優秀賞, 言語処理学会第30回年次大会 (2024年3月)
 
 1. 優秀研究賞, 情報処理学会第258回自然言語処理研究会 (2023年12月)
