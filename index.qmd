@@ -250,23 +250,23 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Awards 
-1. [最優秀賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#best) (2025年3月) (1件/765件)
-1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (32件/726件)
-1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (32件/726件)
+1. [最優秀賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#best) (2025年3月) (<span class="custom-color">1件/765件</span>)
+1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
+1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
 
-1. [優秀賞, 言語処理学会第30回年次大会](https://anlp.jp/nlp2024/award.html#outstanding) (2024年3月)（12件/599件）
+1. [優秀賞, 言語処理学会第30回年次大会](https://anlp.jp/nlp2024/award.html#outstanding) (2024年3月)（<span class="custom-color">12件/599件</span>）
 
 1. [優秀研究賞, 情報処理学会第258回自然言語処理研究会](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding?authuser=0#h.19m46cbzp0rr) (2023年12月)
 
 1. [奨励賞, NLP若手の会 第18回シンポジウム](https://yans.anlp.jp/entry/award) (2023年8月)
 
-1. [委員特別賞, 言語処理学会第29回年次大会](https://anlp.jp/nlp2023/award.html#committee) (2023年3月)（26件/579件）
+1. [委員特別賞, 言語処理学会第29回年次大会](https://anlp.jp/nlp2023/award.html#committee) (2023年3月)（<span class="custom-color">26件/579件</span>）
 
-1. [優秀賞, 言語処理学会第28回年次大会](https://anlp.jp/nlp2022/award.html#outstanding) (2022年3月)（7件/386件）
+1. [優秀賞, 言語処理学会第28回年次大会](https://anlp.jp/nlp2022/award.html#outstanding) (2022年3月)（<span class="custom-color">7件/386件</span>）
 
-1. [若手奨励賞, 言語処理学会第26回年次大会](https://www.anlp.jp/award/nenji.html#y2020) (2020年3月)（13件/269件）
+1. [若手奨励賞, 言語処理学会第26回年次大会](https://www.anlp.jp/award/nenji.html#y2020) (2020年3月)（<span class="custom-color">13件/269件</span>）
 
-1. [優秀賞, 言語処理学会第26回年次大会](https://www.anlp.jp/award/nenji.html) (2020年3月)（6件/396件）
+1. [優秀賞, 言語処理学会第26回年次大会](https://www.anlp.jp/award/nenji.html) (2020年3月)（<span class="custom-color">6件/396件</span>）
 
 1. [奨励賞, NLP若手の会 第14回シンポジウム](https://yans.anlp.jp/entry/award) (2019年8月)
 
