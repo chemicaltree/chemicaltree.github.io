@@ -414,13 +414,14 @@ CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 ## Work Experience
 - 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
+- 2022.7 - Present [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
 - 2022.6 - Present [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
 - 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
-- 2019.10 - 2020.12  [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
-- 2018.2 - 2022.5  [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
-- 2016.4 - 2018.1  [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
-- 2015.10 - 2015.12  [Rakuten Institute of Technology - New York (RIT-NY)](https://rit.rakuten.com/), Part-time Researcher
-- 2014.8 - 2014.8  [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
+- 2019.10 - 2020.12 [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
+- 2018.2 - 2022.5 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
+- 2016.4 - 2018.1 [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
+- 2015.10 - 2015.12 [Rakuten Institute of Technology - New York (RIT-NY)](https://rit.rakuten.com/), Part-time Researcher
+- 2014.8 - 2014.8 [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
 
 ## Education
 - 2024.4 - Present Ph.D student in [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Supervisor: Associate prof. Yohei Oseki)
