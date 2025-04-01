@@ -16,15 +16,16 @@ about:
 :::{#heading}
 Research Scientist @ [NLP Team, CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
-Project Assistant Professor @ [Tokyo Metropolitan University](https://www.tmu.ac.jp/)
+Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi University](https://hit.komachi.live/)
 
-Visiting Scientist @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
+Visiting Researcher @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
 
 :::
 
 :::{.callout-note}
 
 ## News
+- I have been appointed as a visiting researcher at Hitotsubashi University.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
 - Our new preprint ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition"](https://arxiv.org/abs/2502.04795) is now available online.
 - Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
@@ -412,8 +413,9 @@ CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
 ## Work Experience
+- 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
 - 2022.6 - Present [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
-- 2021.10 - Present [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
+- 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
 - 2019.10 - 2020.12  [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
 - 2018.2 - 2022.5  [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
 - 2016.4 - 2018.1  [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
