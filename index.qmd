@@ -3,7 +3,7 @@ title: "Masato Mita, Ph.D."
 about:
   id: heading
   template: solana
-  image: figures/profile_2024_v2.JPG
+  image: figures/profile_2025.jpg
   links:
     - icon: envelope
       text: e-mail
