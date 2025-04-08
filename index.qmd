@@ -7,7 +7,7 @@ about:
   links:
     - icon: envelope
       text: e-mail
-      href: mailto:masato_mita@cyberagent.co.jp
+      href: mailto:karmahand7@gmail.com
     - icon: twitter
       text: twitter
       href: https://twitter.com/chemical_tree
