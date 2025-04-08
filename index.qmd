@@ -27,7 +27,6 @@ Visiting Researcher @ [NLU Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient
 ## News
 - I have been appointed as a visiting researcher at Hitotsubashi University.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
-- Our new preprint ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition"](https://arxiv.org/abs/2502.04795) is now available online.
 - Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
 - Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
 - CADC2024にて「[CAMERA-Suite: 広告文生成のための評価スイート](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」を発表しました。
