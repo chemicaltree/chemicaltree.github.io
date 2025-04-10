@@ -49,7 +49,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
     - Language acquisition, Cognitive modeling
 
 ## Publication
-See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en) and [ACL Anthology](https://aclanthology.org/people/m/masato-mita/).
+See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en), [ACL Anthology](https://aclanthology.org/people/m/masato-mita/), and [researchmap](https://researchmap.jp/masato-mita).
 
 ::: {.panel-tabset}
 
