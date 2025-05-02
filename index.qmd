@@ -14,7 +14,7 @@ about:
 ---
 
 :::{#heading}
-Research Scientist @ [NLP Team, CyberAgent AI Lab](https://cyberagent.ai/ailab/)
+R&D Engineer @ [Recruit Co.,Ltd.](https://www.recruit.co.jp/)
 
 Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi University](https://hit.komachi.live/)
 
@@ -412,11 +412,11 @@ CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
 
-
 ## Work Experience
+- 2025.5 - Present [Recruit Co.,Ltd.](https://www.recruit.co.jp/), R&D Engineer
 - 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
 - 2022.7 - Present [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
-- 2022.6 - Present [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
+- 2022.6 - 2025.4 [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
 - 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
 - 2019.10 - 2020.12 [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
 - 2018.2 - 2022.5 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
