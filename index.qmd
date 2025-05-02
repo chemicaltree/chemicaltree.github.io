@@ -1,5 +1,5 @@
 ---
-title: "Masato Mita, Ph.D."
+title: "Masato Mita"
 about:
   id: heading
   template: solana
