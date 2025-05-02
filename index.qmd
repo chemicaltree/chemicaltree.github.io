@@ -14,7 +14,7 @@ about:
 ---
 
 :::{#heading}
-R&D Engineer @ R&D Group, [Recruit Co.,Ltd.](https://www.recruit.co.jp/)
+R&D Engineer @ Data Technology Lab, [Recruit Co.,Ltd.](https://www.recruit.co.jp/)
 
 Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi University](https://hit.komachi.live/)
 
