@@ -25,7 +25,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 :::{.callout-note}
 
 ## News
-- Our two paper "Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition" and "Targeted Syntactic Evaluation for Grammatical Error Correction" have been accepted at ACL 2025.
+- Our two papers "Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition" and "Targeted Syntactic Evaluation for Grammatical Error Correction" have been accepted at ACL 2025.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
 - Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
 - Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
