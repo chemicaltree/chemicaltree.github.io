@@ -25,7 +25,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 :::{.callout-note}
 
 ## News
-- I have been appointed as a visiting researcher at Hitotsubashi University.
+- Our two paper "Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition" and "Targeted Syntactic Evaluation for Grammatical Error Correction" have been accepted at ACL 2025.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
 - Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
 - Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
@@ -34,11 +34,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 - Our paper "Revisiting the Evaluation for Chinese Grammatical Error Correction" has been accepted to Journal of Advanced Computational Intelligence and Intelligent Informatics.
 - Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
 - Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
-- Our two papers have been accepted at BEA2024.
-- I have become a [Senior Action Editor](https://aclrollingreview.org/people) of the ACL Rolling Review (ARR).
-- Our two papers have been accepted at LREC-COLING 2024.
-- 言語処理学会第30回年次大会（NLP2024）で共著論文「文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性」が[優秀賞](https://www.anlp.jp/nlp2024/award.html)を受賞しました。
-- Our paper [“Revisiting Meta-evaluation for Grammatical Error Correction”](https://arxiv.org/abs/2403.02674) has been accepted at TACL.
+
 
 :::
 
@@ -64,6 +60,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## International Conference
+1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. Targeted Syntactic Evaluation for Grammatical Error Correction. Proceedings of the ACL 2025.
+
+1. <u>Masato Mita</u>, Ryo Yoshida, Yohei Oseki. Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition. Proceedings of the ACL 2025.
+
 
 1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising."](https://aclanthology.org/2025.naacl-long.391/) Proceedings of the NAACL 2025.
 
@@ -384,6 +384,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 - NeurIPS2024 D&B Track (sub) → Rejected
 - JACIII2024 (sub) → <span class="custom-color">Accepted</span>
 - PACLIC2024 (sub) → <span class="custom-color">Accepted</span>
+- NAACL2025 (sub) → <span class="custom-color">Accepted</span>
+- ACL2025 (main) → <span class="custom-color">Accepted</span>
+- ACL2025 (sub)×2 → <span class="custom-color">Accepted ×1</span>, Rejected ×1
 
 
 :::
