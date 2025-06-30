@@ -25,6 +25,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 :::{.callout-note}
 
 ## News
+- [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)にて「[心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng)」という題目で発表しました。
 - Our two papers "Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition" and "Targeted Syntactic Evaluation for Grammatical Error Correction" have been accepted at ACL 2025.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
 - Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
@@ -275,6 +276,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. [奨励賞 (ハッカソン オープン部門), NLP若手の会 第9回シンポジウム](https://yans-previous.anlp.jp/modules/menu/main.php?page_id=110&op=change_page) (2014年9月)
 
 ## Talk/Article
+
+
+
+1. [心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng). 名古屋地区NLPセミナー（2025.6）.
 1. ["NLP2025 ワークショップ：LLM時代のことばの評価の現在と未来"](https://www.jstage.jst.go.jp/article/jnlp/32/2/32_738/_article/-char/ja). 自然言語処理 32巻2号. (2025.6)
 1. ["サイエンスと事業貢献の両立を目指して"](https://www.jstage.jst.go.jp/article/jnlp/31/4/31_1780/_article/-char/ja) 自然言語処理 31巻4号. (2024.12) 
 1. ["CAMERA-Suite: 広告文生成のための評価スイート"](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」. CyberAgent Developer Conference (CADC2024). (2024.10) [[動画](https://www.youtube.com/watch?v=Zx8a7M8k-3w)][[資料](https://speakerdeck.com/cyberagentdevelopers/ai-camera-suite)]
