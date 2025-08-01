@@ -1,6 +1,33 @@
 
 
-$primary: #755ce6;
+// $primary: #755ce6;
+
+
+a {
+  color: #333 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000 !important;
+  text-decoration: underline;
+}
+
+.quarto-title-block,
+.quarto-title-banner {
+  background-color: #f8f8f8 !important;
+  color: #222 !important;
+}
+
+.nav-tabs .nav-link {
+  color: #333 !important;
+}
+
+.nav-tabs .nav-link.active {
+  color: #000 !important;
+}
+
+
 
 body {
   background: #ffffff !important;
