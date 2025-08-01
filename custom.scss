@@ -82,27 +82,7 @@ h1, h2, h3, h4 {
   border-radius: 8px;
 }
 
-/* ハンバーガーメニューの背景をなし、3本線を紫色に */
-.navbar-toggler {
-  background-color: transparent !important;  // 背景なし
-  border: none;
-  padding: 8px;
-}
 
-/* 三本線を紫色（#755ce6）に */
-.navbar-toggler-icon {
-  background-image: none;  // デフォルトのSVGを消す
-  position: relative;
-  width: 24px;
-  height: 2px;
-  background-color: transparent;
-  display: inline-block;
-
-  box-shadow:
-    0 -6px 0 0 #755ce6,
-    0  0   0 0 #755ce6,
-    0  6px 0 0 #755ce6;
-}
 
 /*-- scss:defaults --*/
 // $primary: #2c977e;
