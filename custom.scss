@@ -5,6 +5,11 @@ $callout-color-note: $primary;
 $navbar-bg: $primary;
 $navbar-fg: #ffffff;
 
+body {
+  font-size: 0.95rem; // 👈 ページ全体のフォントサイズを調整
+}
+
+
 .custom-color {
     color: #832179; // 
     font-weight: bold; // 太字を指定  

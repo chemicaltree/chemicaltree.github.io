@@ -7,6 +7,11 @@ website:
   title: "Masato Mita | 三田雅人"
   navbar: 
     search: false
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Publications"
+        file: publication.qmd  
 
 
 
