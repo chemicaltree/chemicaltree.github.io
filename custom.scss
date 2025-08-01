@@ -82,28 +82,27 @@ h1, h2, h3, h4 {
   border-radius: 8px;
 }
 
-/* ハンバーガーメニュー（三本線）ボタンの背景色を薄いグレーに */
+/* ハンバーガーメニューの背景をなし、3本線を紫色に */
 .navbar-toggler {
-  background-color: #f5f5f5 !important;  // 薄いグレー
+  background-color: transparent !important;  // 背景なし
   border: none;
-  padding: 8px 10px;
-  border-radius: 4px;
+  padding: 8px;
 }
 
-/* 三本線のカスタムアイコン */
+/* 三本線を紫色（#755ce6）に */
 .navbar-toggler-icon {
-  background-image: none; /* デフォルトSVGを無効化 */
+  background-image: none;  // デフォルトのSVGを消す
   position: relative;
-  width: 22px;
+  width: 24px;
   height: 2px;
-  background-color: transparent; /* ベースは透明に */
+  background-color: transparent;
   display: inline-block;
-  box-shadow:
-    0 -6px 0 0 #755ce6,   /* 上線 */
-    0  0   0 0 #755ce6,   /* 中央線 */
-    0  6px 0 0 #755ce6;   /* 下線 */
-}
 
+  box-shadow:
+    0 -6px 0 0 #755ce6,
+    0  0   0 0 #755ce6,
+    0  6px 0 0 #755ce6;
+}
 
 /*-- scss:defaults --*/
 // $primary: #2c977e;
