@@ -81,8 +81,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL-HLT 2019.
 
 
-[ᐧᐧᐧ] Please find the full list of publications under [Publications](publication.html)
-
+[ᐧᐧᐧ] Please refer to [Publications](publication.html) for a full list of publication  
 
 ## MISC
 
