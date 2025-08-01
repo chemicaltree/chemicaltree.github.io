@@ -1,6 +1,6 @@
 
 
-// $primary: #755ce6;
+$primary: #755ce6;
 
 
 a {
@@ -27,6 +27,22 @@ a:hover {
   color: #000 !important;
 }
 
+
+/* モバイル用に文字サイズを自動調整 */
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 14px;
+  }
+
+  .nav-tabs {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  main.content {
+    padding: 1rem;
+  }
+}
 
 
 body {
@@ -113,7 +129,7 @@ h1, h2, h3, h4 {
 .custom-color {
     color: #14b599; // 
     font-weight: bold; // 太字を指定  
-    font-size: 12px; // フォントサイズを指定   
+    font-size: 13px; // フォントサイズを指定   
 
 }
 
@@ -123,7 +139,7 @@ h1, h2, h3, h4 {
     color: #ffffff; // フォント色を指定（例: 白色）
     padding: 4px 8px; // 適切なパディングを指定
     border-radius: 5px; // 角丸を指定
-    font-size: 12px; // フォントサイズを指定   
+    font-size: 13px; // フォントサイズを指定   
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); // 影の指定
     font-weight: bold; // 太字を指定    
 
@@ -134,7 +150,7 @@ h1, h2, h3, h4 {
     color: #14b599; // フォント色を指定（例: 白色）
     padding: 5px 10px; // 適切なパディングを指定
     border-radius: 5px; // 角丸を指定
-    font-size: 12px; // フォントサイズを指定   
+    font-size: 13px; // フォントサイズを指定   
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); // 影の指定
     font-weight: bold; // 太字を指定    
 
