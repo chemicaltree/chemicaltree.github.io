@@ -19,7 +19,7 @@ website:
 format:
   html:
     theme:
-      - Zephyr
+      - quartz
       - custom.scss
     include-in-header: font.html
     mainfont: Arial

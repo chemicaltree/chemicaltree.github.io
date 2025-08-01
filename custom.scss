@@ -1,13 +1,66 @@
-/*-- scss:defaults --*/
+
+
 $primary: #2c977e;
-// $link-color: #832179;
-$callout-color-note: $primary;
-$navbar-bg: $primary;
-$navbar-fg: #ffffff;
 
 body {
-  font-size: 12px; // ページ全体のフォントサイズを調整
+  background: #ffffff !important;
+  color: #333 !important;
+  font-size: 12px;
 }
+
+main.content,
+.navbar,
+.sidebar,
+.nav-footer,
+.quarto-title-block,
+.section,
+.callout,
+.callout-note {
+  color: #333 !important;
+  background-color: #ffffff !important;
+}
+
+a {
+  color: $primary !important;
+}
+
+h1, h2, h3, h4 {
+  color: #222 !important;
+}
+
+.callout-note {
+  border-left: 4px solid #2c977e !important;  // ← 好みの色に変更（例：落ち着いたグリーン）
+  background-color: #f8f9fa !important;       // 背景（淡グレー）
+  color: #333 !important;                     // 文字色（明確に）
+}
+
+/*-- scss:defaults --*/
+// $primary: #2c977e;
+// // $link-color: #832179;
+// $callout-color-note: $primary;
+// // $navbar-bg: $primary;
+// $navbar-fg: #ffffff;
+
+// body {
+//   background: #fdfdfd !important;
+//   color: #333;
+//   font-size: 12px;
+// }
+
+// .callout-note {
+//   background-color: #f8f9fa !important;
+//   color: #333 !important;
+//   border-left: 4px solid #2c977e;
+// }
+
+// .callout-note a {
+//   color: #2c977e !important;
+// }
+
+
+// body {
+//   font-size: 12px; // ページ全体のフォントサイズを調整
+// }
 
 
 .custom-color {
@@ -16,6 +69,7 @@ body {
     font-size: 16px; // フォントサイズを指定   
 
 }
+
 
 .conf-tag {
     background-color: #832179; // 背景色を指定（例: 赤色）
@@ -38,6 +92,7 @@ body {
     font-weight: bold; // 太字を指定    
 
 }
+
 
 // .journal-tag {
 //     background-color: #d87218; // 背景色を指定（例: 赤色）
