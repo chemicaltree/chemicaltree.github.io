@@ -28,21 +28,7 @@ a:hover {
 }
 
 
-/* モバイル用に文字サイズを自動調整 */
-@media (max-width: 576px) {
-  .navbar-brand {
-    font-size: 14px;
-  }
 
-  .nav-tabs {
-    font-size: 12px;
-    padding: 4px;
-  }
-
-  main.content {
-    padding: 1rem;
-  }
-}
 
 
 body {
@@ -94,6 +80,64 @@ h1, h2, h3, h4 {
   background-color: white !important;
   border: 1px solid #ccc;
   border-radius: 8px;
+}
+
+/* ハンバーガーメニュー（三本線）アイコンの色を黒系に */
+.navbar-toggler-icon {
+  background-image: none; /* デフォルトのSVGを消す */
+
+  /* カスタムで描く */
+  width: 30px;
+  height: 2px;
+  background-color: #333;
+  display: block;
+  position: relative;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.navbar-toggler-icon::before,
+.navbar-toggler-icon::after {
+  content: "";
+  background-color: #333;
+  width: 30px;
+  height: 2px;
+  display: block;
+  position: absolute;
+  left: 0;
+}
+
+.navbar-toggler-icon::before {
+  top: -8px;
+}
+
+.navbar-toggler-icon::after {
+  top: 8px;
+}
+
+.navbar-brand {
+  white-space: normal !important;       // 折り返しを許可
+  overflow: visible !important;         // 切り捨てしない
+  text-overflow: unset !important;
+  font-size: 16px;                      // 少し小さく調整してもOK
+  max-width: 100%;                      // モバイル時の幅に合わせる
+  line-height: 1.2;
+}
+
+/* モバイル用に文字サイズを自動調整 */
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 14px;
+  }
+
+  .nav-tabs {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  main.content {
+    padding: 1rem;
+  }
 }
 
 
