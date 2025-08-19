@@ -99,6 +99,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## Domestic Conference
 
+1. 山口美咲, <u>三田雅人</u>, 大関洋平. 大規模言語モデルによる人間の表記認知の定量化. 第20回YANSシンポジウム (YANS2025).
+
 1. 大竹啓永, 張培楠,  坂井優介, <u>三田雅人</u>, 大内啓樹, 渡辺太郎. "広告画像ランキングによる視覚言語モデルの評価." 言語処理学会第31回年次大会(NLP2025)  
 
 1. 本多右京, 岡達志, 張培楠, <u>三田雅人</u>. "Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解." 言語処理学会第31回年次大会(NLP2025) <span class="custom-color">🏆 委員特別賞</span>
