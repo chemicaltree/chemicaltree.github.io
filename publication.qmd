@@ -14,6 +14,10 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. Akihiko Kato, Masato Mita, Soichiro Murakami, Ukyo Honda, Sho Hoshino, Peinan Zhang. ["FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation"](https://arxiv.org/abs/2410.03839). arXiv:2410.03839
 
 ## International Conference
+
+1. Hiroto Otake, Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences. Findings of EMNLP 2025.
+
+
 1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
 
 1. <u>Masato Mita</u>, Ryo Yoshida, Yohei Oseki. ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition."](https://aclanthology.org/2025.acl-long.462/) Proceedings of the ACL 2025.
