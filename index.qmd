@@ -117,6 +117,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 ## Talk/Article
 
 
+1. [言語の本質？"](https://www.jstage.jst.go.jp/article/jnlp/32/3/32_960/_article/-char/ja) 自然言語処理 32巻3号. (2025.9) 
 
 1. [心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng). 名古屋地区NLPセミナー（2025.6）.
 1. ["NLP2025 ワークショップ：LLM時代のことばの評価の現在と未来"](https://www.jstage.jst.go.jp/article/jnlp/32/2/32_738/_article/-char/ja). 自然言語処理 32巻2号. (2025.6)
@@ -233,6 +234,8 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 - NAACL2025 (sub) → <span class="custom-color">Accepted</span>
 - ACL2025 (main) → <span class="custom-color">Accepted</span>
 - ACL2025 (sub)×2 → <span class="custom-color">Accepted ×1</span>, Rejected ×1
+- EMNLP2025 (sub)×2 → <span class="custom-color">Accepted (Findings)</span>, Rejected ×1
+- BlaxboxNLP (sub) → Rejected
 
 
 :::
