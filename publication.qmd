@@ -15,7 +15,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## International Conference
 
-1. Hiroto Otake, Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences. Findings of EMNLP 2025.
+1. Ayako Sato, Hwichan Kim, Zhousi Chen, Masato Mita, Mamoru Komachi. Exploring the Effects of Alignment on Numerical Bias in Large Language Models. rtificial Intelligence with Biased or Scarece Data (AIBSD 2026).
+
+1. Hiroto Otake, Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences."](https://aclanthology.org/2025.findings-emnlp.1311/) Findings of EMNLP 2025.
 
 
 1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
