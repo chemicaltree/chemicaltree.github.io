@@ -8,9 +8,6 @@ about:
     - icon: envelope
       text: e-mail
       href: mailto:mita@g.ecc.u-tokyo.ac.jp
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/chemical_tree
 ---
 
 :::{#heading}
@@ -247,6 +244,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 #### Current
 
 1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) 
+1. [言語処理学会, 代議員](https://www.anlp.jp/daigiin.html)
 1. [言語処理学会, 年次大会, プログラム委員](https://anlp.jp/nlp2025/#committee)
 1. [言語処理学会, 自然言語処理論文誌, 編集委員](https://www.anlp.jp/guide/editors.html) 
 1. [言語処理学会, YANSシンポジウム, 運営委員](https://yans.anlp.jp/entry/yans2024members) 
