@@ -105,6 +105,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## Domestic Conference
 
+1. 山口美咲, <u>三田雅人</u>, 磯野真之介, 大関洋平. サプライザルによる人間の表記選好の定量化. 第40回人工知能学会全国大会 (JSAI2026).
+
 1. <u>三田雅人</u>, 染谷大河, 吉田遼, 大関洋平. 言語モデルの言語獲得装置. 言語処理学会第32回年次大会(NLP2026)
 
 1. 山口美咲, <u>三田雅人</u>, 大関洋平. 大規模言語モデルによる人間の表記認知の定量化. 第20回YANSシンポジウム (YANS2025).
