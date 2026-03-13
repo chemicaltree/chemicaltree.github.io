@@ -22,6 +22,8 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 :::{.callout-note}
 
 ## News
+- 言語処理学会第32回年次大会（NLP2026）で主著論文「言語モデルの言語獲得装置」が[委員特別賞](https://anlp.jp/nlp2026/award.html#committee)を受賞しました。
+
 - [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)にて「[心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng)」という題目で発表しました。
 - Our two papers ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition"](https://aclanthology.org/2025.acl-long.462/) and ["Targeted Syntactic Evaluation for Grammatical Error Correction"](https://arxiv.org/abs/2501.15875) have been accepted at ACL 2025.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
@@ -87,6 +89,8 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 
 
 ## Awards 
+1. [委員特別賞, 言語処理学会第32回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2026年3月) (<span class="custom-color">32件/748件</span>)
+
 1. [最優秀賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#best) (2025年3月) (<span class="custom-color">1件/765件</span>)
 1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
 1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
