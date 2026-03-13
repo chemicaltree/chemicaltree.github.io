@@ -27,14 +27,6 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 - [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)にて「[心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng)」という題目で発表しました。
 - Our two papers ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition"](https://aclanthology.org/2025.acl-long.462/) and ["Targeted Syntactic Evaluation for Grammatical Error Correction"](https://arxiv.org/abs/2501.15875) have been accepted at ACL 2025.
 - 言語処理学会第31回年次大会（NLP2025）で主著論文「作業記憶の発達的特性が言語獲得の臨界期を形成する」が[最優秀賞](https://anlp.jp/nlp2025/award.html)を受賞しました。
-- Our paper "AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising" has been accepted to NAACL 2024.
-- Our two TACL papers will be presented at [EMNLP2024](https://2024.emnlp.org/) : one on a new meta-evaluation for GEC ([Kobayashi+2024](https://aclanthology.org/2024.tacl-1.47/)) and another on reducing reliance on shortcut prediction ([Honda+2024](https://aclanthology.org/2024.tacl-1.70/)).
-- CADC2024にて「[CAMERA-Suite: 広告文生成のための評価スイート](https://cadc.cyberagent.co.jp/2024/sessions/ai-camera-suite/)」を発表しました。
-- Our paper "DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information" has been accepted to PACLIC 2024.
-- Our paper "Revisiting the Evaluation for Chinese Grammatical Error Correction" has been accepted to Journal of Advanced Computational Intelligence and Intelligent Informatics.
-- Our paper ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) has been accepted at TACL.
-- Our paper ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation"](https://arxiv.org/abs/2309.12030) has been accepted at ACL 2024.
-
 
 :::
 
@@ -247,14 +239,15 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 ### Organizer
 #### Current
 
-1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) 
-1. [言語処理学会, 代議員](https://www.anlp.jp/daigiin.html)
-1. [言語処理学会, 年次大会, プログラム委員](https://anlp.jp/nlp2025/#committee)
-1. [言語処理学会, 自然言語処理論文誌, 編集委員](https://www.anlp.jp/guide/editors.html) 
-1. [言語処理学会, YANSシンポジウム, 運営委員](https://yans.anlp.jp/entry/yans2024members) 
-1. [情報処理学会, 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) 
+1. [言語処理学会, 代議員](https://www.anlp.jp/daigiin.html)（2026-）
+1. [言語処理学会, 自然言語処理論文誌, 編集委員](https://www.anlp.jp/guide/editors.html) （2024-）
+1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) （2024-）
+
 
 #### Past
+1. [言語処理学会, 年次大会, プログラム委員](https://anlp.jp/nlp2025/#committee)（NLP2025, NLP2026）
+1. [言語処理学会, YANSシンポジウム, 運営委員](https://yans.anlp.jp/entry/yans2024members) （YANS2024, YANS2025）
+1. [情報処理学会, 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) （2022-2026）
 1. [GenChal2022:FCG, Organizer](https://nagata-github.github.io/fcg_genchal/) (2019-2023)
 
 ### Reviewer
