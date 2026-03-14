@@ -81,7 +81,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 
 
 ## Awards 
-1. [委員特別賞, 言語処理学会第32回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2026年3月) (<span class="custom-color">32件/748件</span>)
+1. [委員特別賞, 言語処理学会第32回年次大会](https://anlp.jp/nlp2026/award.html#committee) (2026年3月) (<span class="custom-color">32件/748件</span>)
 
 1. [最優秀賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#best) (2025年3月) (<span class="custom-color">1件/765件</span>)
 1. [委員特別賞, 言語処理学会第31回年次大会](https://anlp.jp/nlp2025/award.html#committee) (2025年3月) (<span class="custom-color">32件/726件</span>)
