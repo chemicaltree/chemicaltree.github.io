@@ -22,6 +22,8 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 :::{.callout-note}
 
 ## News
+- Our two paper "Language Acquisition Device in Large Language Models" has been accepted at ACL 2026.
+
 - 言語処理学会第32回年次大会（NLP2026）で主著論文「言語モデルの言語獲得装置」が[委員特別賞](https://anlp.jp/nlp2026/award.html#committee)を受賞しました。
 
 - [名古屋地区NLPセミナー](https://sites.google.com/site/nagoyanlpseminar/)にて「[心理言語学の視点から再考する言語モデルの学習過程](https://speakerdeck.com/chemical_tree/xin-li-yan-yu-xue-noshi-dian-karazai-kao-suruyan-yu-moderunoxue-xi-guo-cheng)」という題目で発表しました。
@@ -38,6 +40,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 
 ## Publication (Featured)
 
+1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. "Language Acquisition Device in Large Language Models". Proceedings of the ACL 2026.
 
 1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
 
