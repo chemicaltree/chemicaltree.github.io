@@ -15,7 +15,6 @@ R&D Engineer @ Data Technology Lab, [Recruit Co.,Ltd.](https://www.recruit.co.jp
 
 Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi University](https://hit.komachi.live/)
 
-Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/)
 
 :::
 
@@ -233,6 +232,7 @@ Visiting Researcher @ [Natural Language Understanding Team, RIKEN AIP](https://a
 - EMNLP2025 (sub)×2 → <span class="custom-color">Accepted (Findings)</span>, Rejected ×1
 - BlaxboxNLP 2025 (sub) → Rejected
 - AIBSD 2026 (sub) → <span class="custom-color">Accepted</span>
+- ACL 2026 (main) → <span class="custom-color">Accepted</span>
 
 
 :::
@@ -267,7 +267,7 @@ CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 ## Work Experience
 - 2025.5 - Present [Recruit Co.,Ltd.](https://www.recruit.co.jp/), R&D Engineer
 - 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
-- 2022.7 - Present [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
+- 2022.7 - 2026.3 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
 - 2022.6 - 2025.4 [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
 - 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
 - 2019.10 - 2020.12 [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
