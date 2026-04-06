@@ -21,7 +21,7 @@ Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi Univ
 :::{.callout-note}
 
 ## News
-- Our two paper "Language Acquisition Device in Large Language Models" has been accepted at ACL 2026.
+- Our paper "Language Acquisition Device in Large Language Models" has been accepted at ACL 2026.
 
 - 言語処理学会第32回年次大会（NLP2026）で主著論文「言語モデルの言語獲得装置」が[委員特別賞](https://anlp.jp/nlp2026/award.html#committee)を受賞しました。
 
