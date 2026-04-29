@@ -62,9 +62,9 @@ Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi Univ
 1. Masahiro Kaneko, <u>Masato Mita</u>, Shun Kiyono, Jun Suzuki, Kentaro Inui. ["Can Encoder-decoder Models Benefit from Pre-trained Language Representation in Grammatical Error Correction?."](https://aclanthology.org/2020.acl-main.391/) Proceedings of the ACL 2020. 
 
 
-1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of EMNLP-IJCNLP 2019. 
+1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of the EMNLP 2019. 
 
-1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL-HLT 2019.
+1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL 2019.
 
 
 [ᐧᐧᐧ] Please refer to a full list of [Publications](publication.html)  
