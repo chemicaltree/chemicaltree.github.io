@@ -41,15 +41,8 @@ Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi Univ
 
 1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. "Language Acquisition Device in Large Language Models". Proceedings of the ACL 2026.
 
-1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
 
 1. <u>Masato Mita</u>, Ryo Yoshida, Yohei Oseki. ["Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition."](https://aclanthology.org/2025.acl-long.462/) Proceedings of the ACL 2025.
-
-
-1. Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising."](https://aclanthology.org/2025.naacl-long.391/) Proceedings of the NAACL 2025.
-
-
-1. Ukyo Honda, Tatsushi Oka, Peinan Zhang, <u>Masato Mita</u>. ["Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding."](https://arxiv.org/abs/2406.12060) Transactions of the Association for Computational Linguistics (TACL).
 
 
 1. <u>Masato Mita</u>, Soichiro Murakami, Akihiko Kato, Peinan Zhang. ["Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation."](https://aclanthology.org/2024.acl-long.54/) Proceedings of the ACL 2024.
