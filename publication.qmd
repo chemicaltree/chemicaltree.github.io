@@ -15,7 +15,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. Ayako Sato, Hwichan Kim, Zhousi Chen, Masato Mita, Mamoru Komachi. ["Exploring the Effects of Alignment on Numerical Bias in Large Language Models."](https://arxiv.org/abs/2601.16444) Artificial Intelligence with Biased or Scarece Data (AIBSD 2026).
 
-1. Hiroto Otake, Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences."](https://aclanthology.org/2025.findings-emnlp.1311/) Findings of EMNLP 2025.
+1. Hiroto Otake, Peinan Zhang, Yusuke Sakai, <u>Masato Mita</u>, Hiroki Ouchi, Taro Watanabe. ["BannerBench: Benchmarking Vision Language Models for Multi-Ad Selection with Human Preferences."](https://aclanthology.org/2025.findings-emnlp.1311/) Proceedings of the EMNLP 2025 Findings.
 
 
 1. Aoimi Koyama, <u>Masato Mita</u>, Su-Youn Yoon, Yasufumi Takama, Mamoru Komachi. ["Targeted Syntactic Evaluation for Grammatical Error Correction."](https://aclanthology.org/2025.acl-long.1026/) Proceedings of the ACL 2025.
@@ -55,7 +55,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 1. Ryo Nagata, Masato Hagiwara, Kazuaki Hanawa, <u>Masato Mita</u>, Artem Chernodub, Olena Nahorna. ["Shared Task on Feedback Comment Generation for Language Learners."](https://aclanthology.org/2021.inlg-1.35/) Proceedings of the INLG 2021.
 
 
-
 1. <u>Masato Mita</u>, Hitomi Yanaka. ["Do Grammatical Error Correction Models Realize Grammatical Generalization?."](https://aclanthology.org/2021.findings-acl.399/) Proceedings of the ACL 2021 Findings. 
 
 
@@ -71,11 +70,11 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. Masato Hagiwara, <u>Masato Mita</u>. ["GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors."](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.835) Proceedings of the LREC 2020.
 
-1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of EMNLP-IJCNLP 2019. 
+1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of the EMNLP 2019. 
 
 1. Hiroki Asano,  <u>Masato Mita</u>, Tomoya Mizumoto, Jun Suzuki. ["The AIP-Tohoku System at the BEA-2019 Shared Task."](https://aclanthology.org/W19-4418/) Proceedings of the BEA 2019. <span class="custom-color">🏆 2nd place at the unrestricted track</span> 
 
-1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui.  ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL-HLT 2019.
+1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui.  ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL 2019.
 
 1. Tomoya Mizumoto, <u>Masato Mita</u>, Yuji Matsumoto. ["Grammatical Error Correction Considering Multi-word Expressions."](https://aclanthology.org/W15-4412/) Proceedings of the TEA 2015. 
 
