@@ -37,7 +37,9 @@ Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi Univ
 - Computational (Psycho)linguistics
     - Language acquisition, Cognitive modeling
 
-## Publication (Featured)
+## Selected Publication
+For a full list of publications, please refer to the [Publications](publication.html) page or [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ&hl=en).
+
 
 1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. "Language Acquisition Device in Large Language Models". Proceedings of the ACL 2026.
 
@@ -67,7 +69,6 @@ Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi Univ
 1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui. ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL 2019.
 
 
-[ᐧᐧᐧ] Please refer to a full list of [Publications](publication.html)  
 
 ## MISC
 
