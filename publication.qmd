@@ -10,7 +10,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## International Conference
 
-1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. "Language Acquisition Device in Large Language Models". Proceedings of the ACL 2026.
+1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. ["Language Acquisition Device in Large Language Models"](https://arxiv.org/abs/2605.16758). Proceedings of the ACL 2026.
 
 
 1. Ayako Sato, Hwichan Kim, Zhousi Chen, Masato Mita, Mamoru Komachi. ["Exploring the Effects of Alignment on Numerical Bias in Large Language Models."](https://arxiv.org/abs/2601.16444) Artificial Intelligence with Biased or Scarece Data (AIBSD 2026).
