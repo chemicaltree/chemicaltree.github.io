@@ -227,7 +227,7 @@ For a full list of publications, please refer to the [Publications](publication.
 - BlaxboxNLP 2025 (sub) → Rejected
 - AIBSD 2026 (sub) → <span class="custom-color">Accepted</span>
 - ACL 2026 (main) → <span class="custom-color">Accepted</span>
-
+- Interspeech 2026 (sub) → Rejected
 
 :::
 
