@@ -105,6 +105,7 @@ For a full list of publications, please refer to the [Publications](publication.
 
 ## Talk/Article
 
+1. ["LLM活用の壁を超える：リクルートR&Dの戦略と打ち手"](https://speakerdeck.com/recruitengineers/recruittc2026-07-mitamasato). RECRUIT TECH CONFERENCE 2026.（2026.2）
 
 1. ["言語の本質？"](https://www.jstage.jst.go.jp/article/jnlp/32/3/32_960/_article/-char/ja) 自然言語処理 32巻3号. (2025.9) 
 
@@ -264,11 +265,9 @@ CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 - 2022.7 - 2026.3 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
 - 2022.6 - 2025.4 [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
 - 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
-- 2019.10 - 2020.12 [Megagon Labs](https://www.megagon.ai/jp/), Contract Researcher
 - 2018.2 - 2022.5 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
 - 2016.4 - 2018.1 [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
-- 2015.10 - 2015.12 [Rakuten Institute of Technology - New York (RIT-NY)](https://rit.rakuten.com/), Part-time Researcher
-- 2014.8 - 2014.8 [NTT Communication Science Laboratories](https://www.rd.ntt/e/cs/), Part-time Researcher
+
 
 ## Education
 - 2024.4 - Present Ph.D student in [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (Supervisor: Associate prof. Yohei Oseki)
