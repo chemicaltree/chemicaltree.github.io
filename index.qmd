@@ -234,22 +234,19 @@ For a full list of publications, please refer to the [Publications](publication.
 
 
 ## Academic Services
-### Organizer
-#### Current
+##### Current
 
 1. [言語処理学会, 代議員](https://www.anlp.jp/daigiin.html)（2026-）
 1. [言語処理学会, 自然言語処理論文誌, 編集委員](https://www.anlp.jp/guide/editors.html) （2024-）
 1. [ACL Rolling Review (ARR), Senior Action Editor](https://aclrollingreview.org/saes) （2024-）
 
 
-#### Past
+##### Past
 1. [言語処理学会, 年次大会, プログラム委員](https://anlp.jp/nlp2025/#committee)（NLP2025, NLP2026）
 1. [言語処理学会, YANSシンポジウム, 運営委員](https://yans.anlp.jp/entry/yans2024members) （YANS2024, YANS2025）
 1. [情報処理学会, 自然言語処理研究会, 運営委員]((https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/home?authuser=0)) （2022-2026）
 1. [GenChal2022:FCG, Organizer](https://nagata-github.github.io/fcg_genchal/) (2019-2023)
 
-### Reviewer
-CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
 ## Research Grants
@@ -260,13 +257,17 @@ CL, ACL, EMNLP, NAACL, ARR, LREC, COLING, JNLP, BEA ...etc.
 
 
 ## Work Experience
+##### Full-Time Experience
 - 2025.5 - Present [Recruit Co.,Ltd.](https://www.recruit.co.jp/), R&D Engineer
-- 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
-- 2022.7 - 2026.3 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
 - 2022.6 - 2025.4 [CyberAgent, Inc.](https://cyberagent.ai/ailab/), Research Scientist 
-- 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
 - 2018.2 - 2022.5 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Researcher 
 - 2016.4 - 2018.1 [Microsoft Japan](https://www.microsoft.com/ja-jp), Engineer
+
+
+##### Part-Time & Adjunct Experience
+- 2025.4 - Present [Hitotsubashi University](https://www.hit-u.ac.jp/), Visiting Researcher
+- 2022.7 - 2026.3 [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/), Visiting Researcher 
+- 2021.10 - 2025.3 [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Project Assistant Professor
 
 
 ## Education
