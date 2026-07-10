@@ -10,7 +10,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## International Conference
 
-1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. ["Language Acquisition Device in Large Language Models"](https://aclanthology.org/2026.acl-long.895/). Proceedings of the ACL 2026. <span class="custom-color">🏆 SAC Highlight</span> 
+1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. ["Language Acquisition Device in Large Language Models"](https://aclanthology.org/2026.acl-long.895/). Proceedings of the ACL 2026. <span class="custom-color">🏆 SAC Highlight 🏆</span> 
 
 
 1. Ayako Sato, Hwichan Kim, Zhousi Chen, Masato Mita, Mamoru Komachi. ["Exploring the Effects of Alignment on Numerical Bias in Large Language Models."](https://arxiv.org/abs/2601.16444) Artificial Intelligence with Biased or Scarece Data (AIBSD 2026).
@@ -72,7 +72,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 1. Shun Kiyono, Jun Suzuki, <u>Masato Mita</u>, Tomoya Mizumoto, Kentaro Inui. ["An Empirical Study of Incorporating Pseudo Data to Grammatical Error Correction."](https://aclanthology.org/D19-1119/) Proceedings of the EMNLP 2019. 
 
-1. Hiroki Asano,  <u>Masato Mita</u>, Tomoya Mizumoto, Jun Suzuki. ["The AIP-Tohoku System at the BEA-2019 Shared Task."](https://aclanthology.org/W19-4418/) Proceedings of the BEA 2019. <span class="custom-color">🏆 2nd place at the unrestricted track</span> 
+1. Hiroki Asano,  <u>Masato Mita</u>, Tomoya Mizumoto, Jun Suzuki. ["The AIP-Tohoku System at the BEA-2019 Shared Task."](https://aclanthology.org/W19-4418/) Proceedings of the BEA 2019. <span class="custom-color">🏆 2nd place at the unrestricted track 🏆</span> 
 
 1. <u>Masato Mita</u>, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata, Kentaro Inui.  ["Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?."](https://aclanthology.org/N19-1132/) Proceedings of the NAACL 2019.
 
