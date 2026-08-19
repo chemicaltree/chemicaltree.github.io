@@ -109,6 +109,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 
 ## Domestic Conference
+1. 山口美咲, <u>三田雅人</u>, 磯野真之介, 大関洋平. サプライザルは表記選好と逆相関する. 第21回YANSシンポジウム (YANS2026). <span class="custom-color">🏆 奨励賞・NTT株式会社賞（筆頭著者のみ受賞）</span>
 
 1. 山口美咲, <u>三田雅人</u>, 磯野真之介, 大関洋平. サプライザルによる人間の表記選好の定量化. 第40回人工知能学会全国大会 (JSAI2026).
 
