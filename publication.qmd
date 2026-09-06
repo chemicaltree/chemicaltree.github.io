@@ -10,7 +10,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=fkWeWrwAAAAJ
 
 ## International Conference
 
-1. <u>Masato Mita</u>, Max Müller-Eberstein, Misaki Yamaguchi, Yohei Oseki. "Principles Transfer, Parameters Don't: Universal Grammar-Inspired Multilingual Pre-Pretraining". Proceedings of the BabyLM 2026. 
+1. <u>Masato Mita</u>, Max Müller-Eberstein, Misaki Yamaguchi, Yohei Oseki. "Linguistically Inspired Multilingual Pre-Pretraining". Proceedings of the BabyLM 2026. 
 
 
 1. <u>Masato Mita</u>, Taiga Someya, Ryo Yoshida, Yohei Oseki. ["Language Acquisition Device in Large Language Models"](https://aclanthology.org/2026.acl-long.895/). Proceedings of the ACL 2026. <span class="custom-color">🏆 SAC Highlight 🏆</span> 
