@@ -21,7 +21,7 @@ Visiting Researcher @ [Social Computational Linguistics Group, Hitotsubashi Univ
 :::{.callout-note}
 
 ## News
-- Our paper "Principles Transfer, Parameters Don't: Universal Grammar-Inspired Multilingual Pre-Pretraining" has been accepted at BabyLM 2026.
+- Our paper "Linguistically Inspired Multilingual Pre-Pretraining" has been accepted at BabyLM 2026.update
 - Our paper has been selected as an SAC Highlight Award (Senior Area Chair Top Recommendation) at ACL 2026.
 - Our paper ["Language Acquisition Device in Large Language Models"](https://aclanthology.org/2026.acl-long.895/) has been accepted at ACL 2026.
 
